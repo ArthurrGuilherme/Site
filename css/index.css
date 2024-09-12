@@ -1,0 +1,7 @@
+#Main {
+    background: url(../img/banner-principal.webp);
+    background-size: cover;
+}
+#ContainerApresentacao {
+    padding: 5rem 0px 11.5rem 0px;
+}
