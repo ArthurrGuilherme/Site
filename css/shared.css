@@ -6,6 +6,18 @@
     font-weight: 700 !important;
     background: var(--roxo-vendex) !important;
 }
+.HeaderSecundario {
+    opacity: 0;
+    pointer-events: none;
+    transition: all .2s;
+}
+.HeaderSecundario.active{
+    pointer-events: auto;
+    opacity: 1;
+}
+#BtnHeaderSecundario {
+    color: var(--rosa-vendex);
+}
 p, h1 {
     margin: 0px;
 }
