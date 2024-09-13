@@ -19,3 +19,22 @@ p, h1 {
     background: var(--bs-white) !important;
     color: var(--bs-black) !important;
 }
+
+#icons {
+    font-size: 3.5rem !important;
+}
+#icons02 {
+    font-size: 1.5rem !important;
+    background: var(--bs-white);
+    border-radius: 20px;
+    padding: .5rem;
+    font-weight: 700;
+    color: var(--rosa-vendex);
+}
+#icons02:hover {
+    background: var(--rosa-vendex);
+    color: var(--bs-white);
+}
+#IconsHeader {
+    gap: 1rem;
+}
