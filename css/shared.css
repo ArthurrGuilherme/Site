@@ -1,52 +1,66 @@
-#offcanvasNavbar {
-    background: var(--roxo-vendex) !important;
-    font-weight: 700 !important;
-}
-.dropdown-item:focus, .dropdown-item:hover {
-    font-weight: 700 !important;
-    background: var(--roxo-vendex) !important;
-}
-.HeaderSecundario {
-    opacity: 0;
-    pointer-events: none;
-    transition: all .2s;
-}
-.HeaderSecundario.active{
-    pointer-events: auto;
-    opacity: 1;
-}
-#BtnHeaderSecundario {
-    color: var(--rosa-vendex);
-}
-p, h1 {
-    margin: 0px;
-}
-#BtnContato {
-    padding: 0.4rem 3.5rem;
-    background: var(--bs-black) !important;
-    border-radius: 15px;
-    font-weight: 700;
-}
-#BtnContato:hover{
-    background: var(--bs-white) !important;
-    color: var(--bs-black) !important;
-}
+/*Header*/    
+    #offcanvasNavbar {
+        background: var(--roxo-vendex) !important;
+        font-weight: 700 !important;
+    }
+    .dropdown-item:focus, .dropdown-item:hover {
+        font-weight: 700 !important;
+        background: var(--roxo-vendex) !important;
+    }
+    .HeaderSecundario {
+        opacity: 0;
+        pointer-events: none;
+        transition: all .2s;
+    }
+    .HeaderSecundario.active{
+        pointer-events: auto;
+        opacity: 1;
+    }
+    #BtnHeaderSecundario {
+        color: var(--rosa-vendex);
+    }
+    p, h1 {
+        margin: 0px;
+    }
+    #BtnContato {
+        padding: 0.4rem 3.5rem;
+        background: var(--bs-black) !important;
+        border-radius: 15px;
+        font-weight: 700;
+    }
+    #BtnContato:hover{
+        background: var(--bs-white) !important;
+        color: var(--bs-black) !important;
+    }
 
-#icons {
-    font-size: 3.5rem !important;
-}
-#icons02 {
-    font-size: 1.5rem !important;
-    background: var(--bs-white);
-    border-radius: 20px;
-    padding: .5rem;
-    font-weight: 700;
-    color: var(--rosa-vendex);
-}
-#icons02:hover {
-    background: var(--rosa-vendex);
-    color: var(--bs-white);
-}
-#IconsHeader {
-    gap: 1rem;
-}
+    #icons {
+        font-size: 3.5rem !important;
+    }
+    #icons02 {
+        font-size: 1.5rem !important;
+        background: var(--bs-white);
+        border-radius: 20px;
+        padding: .5rem;
+        font-weight: 700;
+        color: var(--rosa-vendex);
+    }
+    #icons02:hover {
+        background: var(--rosa-vendex);
+        color: var(--bs-white);
+    }
+    #IconsHeader {
+        gap: 1rem;
+    }
+/*Header*/
+/*Buttons*/
+    .Btn01 {
+        border-radius: 15px;
+        padding: .2rem 2rem;
+        transition: all .5s;
+        color: var(--bs-white);
+        background: linear-gradient(135deg, var(--roxo-vendex) 0%, var(--rosa-vendex) 100%) !important;
+    }
+    .Btn01:hover {
+        border-radius: 0px;
+    }
+/*Buttons*/

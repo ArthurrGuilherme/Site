@@ -11,8 +11,20 @@
     list-style: none;
 }
 /*Vareaveis*/
-:root {
-    --roxo-vendex: #b56afc;
-    --rosa-vendex: #fc6aed;
-}
+    :root {
+        --roxo-vendex: #b56afc;
+        --rosa-vendex: #fc6aed;
+    }
+    #Img {
+        width: 40% !important;
+        box-shadow: 5px 10px 30px #fc6aed69;
+    }
+    h2 {
+        margin: 0;
+    }
 /*Vareaveis*/
+/*Body*/
+    main {
+        background: var(--bs-black);
+    }
+/*Body*/
