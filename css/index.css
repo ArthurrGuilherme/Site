@@ -14,3 +14,16 @@
     25% {top: 25px;}
     50% {top: 0px; }
   }
+#SessaoCards {
+    gap: .8rem;
+}
+#Cards {
+    border: 3px solid #b56afc !important;
+}
+#LinkCards:hover {
+    background: var(--bs-white) !important;
+    color: var(--bs-black);
+}
+#LinkCards {
+    font-weight: 700;
+}

@@ -14,6 +14,8 @@
     :root {
         --roxo-vendex: #b56afc;
         --rosa-vendex: #fc6aed;
+        --background-vendx: linear-gradient(70deg, #fc6aed 7%, #b56afc 100%);
+        --background-vendx02: linear-gradient(70deg, #b56afc 7%, #fc6aed 100%);
     }
     #Img {
         width: 40% !important;
