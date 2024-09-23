@@ -26,4 +26,13 @@
 }
 #LinkCards {
     font-weight: 700;
+    border-radius: 20px;
+}
+#ListaImg {
+    gap: 0.5rem;
+}
+#ListaImg li {
+    border-radius: 15px;
+    width: 9rem;
+    height: 9rem;
 }
