@@ -91,3 +91,10 @@ select {
     border-radius: 20px;
     padding: 0.5rem 1rem;
 }
+#BtnFormulario {
+    border-radius: 20px;
+    transition: all .5s;
+}
+#BtnFormulario:hover {
+    background: var(--background-vendx);
+}
