@@ -1,5 +1,6 @@
 <?php 
     include './shared/shared.php';
+    include './shared/head.php';
 ?>
 <!DOCTYPE html>
 <html lang="Pt-Br">
@@ -12,33 +13,14 @@
     <!--Titulo da pagina-->
         <title>Home - Vendex</title>
     <!--Titulo da pagina-->
-    <!--Icon do site-->
-        <link rel="shortcut icon" href="#" type="image/x-icon">
-    <!--Icon do site-->
-    <!--Css Api-->
-        <!--Boostrap-->
-            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-        <!--Boostrap-->
+    <!--Css/js principais-->
+        <?php echo $headcss ?>
+    <!--Css/js principais-->
+    <!--Api-->
         <!--boxicons-->
             <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
         <!--boxicons-->
-    <!--Css Api-->
-    <!--css-->
-        <!--Vareaveis globais-->
-            <link rel="stylesheet" href="./css/reset.css">
-        <!--Vareaveis globais-->
-        <!--Compartilhada-->
-            <link rel="stylesheet" href="./css/shared.css">
-        <!--Compartilhada-->
-            <!--Index pagina principal-->
-                <link rel="stylesheet" href="./css/index.css">
-            <!--Index pagina principal-->
-    <!--css-->
-    <!--Api js-->
-        <!--Revel-->
-            <script src="https://unpkg.com/scrollreveal"></script>
-        <!--Revel-->
-    <!--Api js-->
+    <!--Api-->    
 </head>
 <body>
     <!--Container principal das paginas estaticas-->
@@ -647,12 +629,5 @@
         <?php echo $footer ?>  
     <!--Footer-->
 </body>
-    <!--Js-->
-        <script src="./js/header.js"></script>
-        <script src="./js/scrollrevel.js"></script>
-    <!--Js-->
-    <!--Js Api-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-        <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
-    <!--Js Api-->
+    <?php echo $headjs ?>
 </html>
