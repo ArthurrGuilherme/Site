@@ -33,240 +33,256 @@
     <!--css-->
 </head>
 <body>
-    <section id="Main">
-        <!--header Principal-->
-            <header>
-                <!--Estrutura-->
-                    <nav class="navbar absolute-top container-md">
-                        <!--Logica do header-->
-                            <div class="container-fluid">
-                                <!--Logo-->
-                                    <a class="navbar-brand" href="#">
-                                        <img class="w-50 p-3" src="./img/LogoVendex.webp" alt="LogoPrincipal">
-                                    </a>
-                                <!--Logo-->
-                                <!--Menu btn-->
-                                    <button class="navbar-toggler " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-list text-light" viewBox="0 0 16 16">
-                                            <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
-                                        </svg>
-                                    </button>
-                                <!--Menu btn-->
-                                <!--Menu Lista-->
-                                    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-                                        <div class="offcanvas-header">
-                                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    <!--Container principal das paginas estaticas-->
+        <section style="background: url(./img/banner-principal.webp); background-size: cover">
+            <!--header Principal-->
+                <header>
+                    <!--Estrutura-->
+                        <nav class="navbar absolute-top container-md">
+                            <!--Logica do header-->
+                                <div class="container-fluid">
+                                    <!--Logo-->
+                                        <a class="navbar-brand" href="./index.php">
+                                            <img class="w-50" src="./img/LogoVendex.webp" alt="LogoPrincipal">
+                                        </a>
+                                    <!--Logo-->
+                                    <!--Menu btn-->
+                                        <button class="navbar-toggler " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-list text-light" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+                                            </svg>
+                                        </button>
+                                    <!--Menu btn-->
+                                    <!--Menu Lista-->
+                                        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                                            <!--Logica para fechar o header-->
+                                                <div class="offcanvas-header">
+                                                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                                                </div>
+                                            <!--Logica para fechar o header-->
+                                            <!--Menu principal-->
+                                                <div class="offcanvas-body">
+                                                    <!--Lista-->
+                                                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                                                            <li class="nav-item">
+                                                                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                                            </li>
+                                                            <li class="nav-item">
+                                                                <a class="nav-link" href="#">Empresa</a>
+                                                            </li>
+                                                            <!--Lista Drop-->
+                                                                <li class="nav-item dropdown">
+                                                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                                    Serviços
+                                                                </a>
+                                                                <!--Menu Drop-->
+                                                                    <ul class="dropdown-menu" id="offcanvasNavbar">
+                                                                        <li>
+                                                                            <a class="dropdown-item" href="#">Gestão de Marketplace</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a class="dropdown-item" href="#">Consultoria de Venda</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a class="dropdown-item" href="#">Gestão de Ads</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a class="dropdown-item" href="#">Automações</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a class="dropdown-item" href="#">Tráfego Pago</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                <!--Menu Drop-->
+                                                                </li>
+                                                            <!--Lista Drop-->
+                                                            <li class="nav-item">
+                                                                <a class="nav-link" href="#">Blog</a>
+                                                            </li>
+                                                            <li class="nav-item">
+                                                                <a class="nav-link" href="#">Cases</a>
+                                                            </li>
+                                                            <li class="nav-item">
+                                                                <a class="nav-link" href="#">Contato</a>
+                                                            </li>
+                                                            <li class="nav-item">
+                                                                <a class="nav-link" href="#">Vagas</a>
+                                                            </li>
+                                                            <li class="nav-item">
+                                                                <a class="nav-link" href="#">Área do Cliente</a>
+                                                            </li>
+                                                        </ul>
+                                                    <!--Lista-->
+                                                </div>
+                                            <!--Menu principal-->
+                                            <br>
+                                            <!--Icons de redes socais-->
+                                                <div>
+                                                    <!--Lista icons-->
+                                                        <ul style="gap: 1rem;" class="d-flex flex-row">
+                                                            <!--Instagram-->
+                                                                <li>
+                                                                    <a href="#"><i id="icons02" class='bx bxl-instagram'></i></a>
+                                                                </li>
+                                                            <!--Instagram-->
+                                                            <!--Linkedin-->
+                                                                <li>
+                                                                    <a href="#"><i id="icons02" class='bx bxl-linkedin' ></i></a>
+                                                                </li>
+                                                            <!--Linkedin-->
+                                                            <!--Youtube-->
+                                                                <li>
+                                                                    <a href="#"><i id="icons02" class='bx bxl-youtube' ></i></a>
+                                                                </li>
+                                                            <!--Youtube-->
+                                                        </ul>
+                                                    <!--Lista icons-->
+                                                </div>
+                                            <!--Icons de redes socais-->
                                         </div>
-                                        <div class="offcanvas-body">
-                                            <!--Lista-->
-                                                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                                                    <li class="nav-item">
-                                                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Empresa</a>
-                                                    </li>
-                                                    <!--Lista Drop-->
-                                                        <li class="nav-item dropdown">
-                                                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                                            Serviços
-                                                        </a>
-                                                        <!--Menu Drop-->
-                                                            <ul class="dropdown-menu" id="offcanvasNavbar">
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Gestão de Marketplace</a>
-                                                                </li>
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Consultoria de Venda</a>
-                                                                </li>
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Gestão de Ads</a>
-                                                                </li>
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Automações</a>
-                                                                </li>
-                                                                </li>
-                                                                    <a class="dropdown-item" href="#">Tráfego Pago</a>
-                                                                </li>
-                                                            </ul>
-                                                        <!--Menu Drop-->
+                                    <!--Menu Lista-->
+                                </div>
+                            <!--Logica do header-->
+                        </nav>
+                    <!--Estrutura-->
+                </header>    
+            <!--header Principal-->
+            <!--Header Secundario-->
+                <header class="HeaderSecundario">
+                    <!--Estrutura-->
+                        <nav style="padding: 0px !important; box-shadow: 0 1px 2px rgba(0, 0, 0, .2);" class="navbar bg-light fixed-top">
+                            <!--Logica do header-->
+                                <div class="container-fluid container-md">
+                                    <!--Logo-->
+                                        <a class="navbar-brand" href="#">
+                                            <img id="LogoSecundario" class="w-75 p-2" src="./img/logovendexheader.webp" alt="LogoPrincipal">
+                                        </a>
+                                    <!--Logo-->
+                                    <!--Menu btn-->
+                                        <button class="navbar-toggler " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                                            <svg id="BtnHeaderSecundario" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+                                            </svg>
+                                        </button>
+                                    <!--Menu btn-->
+                                    <!--Menu Lista-->
+                                        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                                            <div class="offcanvas-header">
+                                            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                                            </div>
+                                            <div class="offcanvas-body">
+                                                <!--Lista-->
+                                                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link active" aria-current="page" href="#">Home</a>
                                                         </li>
-                                                    <!--Lista Drop-->
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Blog</a>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="#">Empresa</a>
+                                                        </li>
+                                                        <!--Lista Drop-->
+                                                            <li class="nav-item dropdown">
+                                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                                Serviços
+                                                            </a>
+                                                            <!--Menu Drop-->
+                                                                <ul class="dropdown-menu" id="offcanvasNavbar">
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="#">Gestão de Marketplace</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="#">Consultoria de Venda</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="#">Gestão de Ads</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="#">Automações</a>
+                                                                    </li>
+                                                                    </li>
+                                                                        <a class="dropdown-item" href="#">Tráfego Pago</a>
+                                                                    </li>
+                                                                </ul>
+                                                            <!--Menu Drop-->
+                                                            </li>
+                                                        <!--Lista Drop-->
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="#">Blog</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="#">Cases</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="#">Contato</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="#">Vagas</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="#">Área do Cliente</a>
+                                                        </li>
+                                                    </ul>
+                                                <!--Lista-->
+                                            </div>
+                                            <br>
+                                            <div >
+                                                <ul id="IconsHeader" class="d-flex flex-row">
+                                                    <li>
+                                                        <a href=""><i id="icons02" class='bx bxl-instagram'></i></a>
                                                     </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Cases</a>
+                                                    <li>
+                                                        <a href=""><i id="icons02" class='bx bxl-linkedin' ></i></a>
                                                     </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Contato</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Vagas</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Área do Cliente</a>
+                                                    <li>
+                                                        <a href=""><i id="icons02" class='bx bxl-youtube' ></i></a>
                                                     </li>
                                                 </ul>
-                                            <!--Lista-->
+                                            </div>
                                         </div>
-                                        <br>
-                                        <div >
-                                            <ul id="IconsHeader" class="d-flex flex-row">
-                                                <li>
-                                                    <a href=""><i id="icons02" class='bx bxl-instagram'></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href=""><i id="icons02" class='bx bxl-linkedin' ></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href=""><i id="icons02" class='bx bxl-youtube' ></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                <!--Menu Lista-->
-                            </div>
-                        <!--Logica do header-->
-                    </nav>
-                <!--Estrutura-->
-            </header>    
-        <!--header Principal-->
-        <!--Header Secundario-->
-            <header class="HeaderSecundario">
-                <!--Estrutura-->
-                    <nav style="padding: 0px !important; box-shadow: 0 1px 2px rgba(0, 0, 0, .2);" class="navbar bg-light fixed-top">
-                        <!--Logica do header-->
-                            <div class="container-fluid container-md">
-                                <!--Logo-->
-                                    <a class="navbar-brand" href="#">
-                                        <img id="LogoSecundario" class="w-75 p-2" src="./img/logovendexheader.webp" alt="LogoPrincipal">
-                                    </a>
-                                <!--Logo-->
-                                <!--Menu btn-->
-                                    <button class="navbar-toggler " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-                                        <svg id="BtnHeaderSecundario" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
-                                            <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
-                                        </svg>
-                                    </button>
-                                <!--Menu btn-->
-                                <!--Menu Lista-->
-                                    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-                                        <div class="offcanvas-header">
-                                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-                                        </div>
-                                        <div class="offcanvas-body">
-                                            <!--Lista-->
-                                                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                                                    <li class="nav-item">
-                                                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Empresa</a>
-                                                    </li>
-                                                    <!--Lista Drop-->
-                                                        <li class="nav-item dropdown">
-                                                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                                            Serviços
-                                                        </a>
-                                                        <!--Menu Drop-->
-                                                            <ul class="dropdown-menu" id="offcanvasNavbar">
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Gestão de Marketplace</a>
-                                                                </li>
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Consultoria de Venda</a>
-                                                                </li>
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Gestão de Ads</a>
-                                                                </li>
-                                                                <li>
-                                                                    <a class="dropdown-item" href="#">Automações</a>
-                                                                </li>
-                                                                </li>
-                                                                    <a class="dropdown-item" href="#">Tráfego Pago</a>
-                                                                </li>
-                                                            </ul>
-                                                        <!--Menu Drop-->
-                                                        </li>
-                                                    <!--Lista Drop-->
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Blog</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Cases</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Contato</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Vagas</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="nav-link" href="#">Área do Cliente</a>
-                                                    </li>
-                                                </ul>
-                                            <!--Lista-->
-                                        </div>
-                                        <br>
-                                        <div >
-                                            <ul id="IconsHeader" class="d-flex flex-row">
-                                                <li>
-                                                    <a href=""><i id="icons02" class='bx bxl-instagram'></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href=""><i id="icons02" class='bx bxl-linkedin' ></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href=""><i id="icons02" class='bx bxl-youtube' ></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                <!--Menu Lista-->
-                            </div>
-                        <!--Logica do header-->
-                    </nav>
-                <!--Estrutura-->
-            </header>  
-        <!--Header Secundario-->
-        <!--Apresentação-->
-            <section class="container-md d-flex justify-content-between" id="ContainerApresentacao">
-                <!--Estrutura texto-->
-                    <article class="d-flex flex-column">
-                        <!--Titulo-->
-                            <h1>Consultoria e</h1>
-                            <h1>Gestão para</h1>
-                            <h1><strong>Marketplaces</strong></h1>
-                        <!--Titulo-->
-                        <br>
-                        <!--Texto-->
-                            <strong><p>Aumente seu faturamento com</p>
-                            <p>apoio de nossos profissionais.</p></strong>
-                        <!--Texto-->
-                        <br>
-                        <!--Btn Principal-->
-                            <span>
-                                <button type="button" id="BtnContato" class="btn btn-dark">Contato</button>
-                            </span>
-                        <!--Btn Principal-->
-                        <!--Arrow-->
-                            <span id="Arrow" class="d-flex justify-content-center w-75 p-3">
-                                <i id="icons" class='bx bx-chevrons-down'></i>
-                            </span>
-                        <!--Arrow-->
-                    </article>
-                <!--Estrutura texto-->
-                <!--Estrutura Img-->
-                    <span class="d-flex justify-content-end align-items-end">
-                        <!--Consutoria do meli-->
-                            <img class="w-25 p-3" src="./img/logoMeli.webp" alt="Consultoria Verificada">
-                        <!--Consutoria do meli-->
-                    </span>
-                <!--Estrutura Img-->
-            </section>
-        <!--Apresentação-->
-    </section>
+                                    <!--Menu Lista-->
+                                </div>
+                            <!--Logica do header-->
+                        </nav>
+                    <!--Estrutura-->
+                </header>  
+            <!--Header Secundario-->
+            <!--Apresentação-->
+                <section class="container-md d-flex justify-content-between" id="ContainerApresentacao">
+                    <!--Estrutura texto-->
+                        <article class="d-flex flex-column">
+                            <!--Titulo-->
+                                <h1>Consultoria e</h1>
+                                <h1>Gestão para</h1>
+                                <h1><strong>Marketplaces</strong></h1>
+                            <!--Titulo-->
+                            <br>
+                            <!--Texto-->
+                                <strong><p>Aumente seu faturamento com</p>
+                                <p>apoio de nossos profissionais.</p></strong>
+                            <!--Texto-->
+                            <br>
+                            <!--Btn Principal-->
+                                <span>
+                                    <button type="button" id="BtnContato" class="btn btn-dark">Contato</button>
+                                </span>
+                            <!--Btn Principal-->
+                            <!--Arrow-->
+                                <span id="Arrow" class="d-flex justify-content-center w-75 p-3">
+                                    <i id="icons" class='bx bx-chevrons-down'></i>
+                                </span>
+                            <!--Arrow-->
+                        </article>
+                    <!--Estrutura texto-->
+                    <!--Estrutura Img-->
+                        <span class="d-flex justify-content-end align-items-end">
+                            <!--Consutoria do meli-->
+                                <img class="w-25 p-3" src="./img/logoMeli.webp" alt="Consultoria Verificada">
+                            <!--Consutoria do meli-->
+                        </span>
+                    <!--Estrutura Img-->
+                </section>
+            <!--Apresentação-->
+        </section>
+    <!--Container principal das paginas estaticas-->    
     <!--Conteudo Principal-->
         <main>
             <!--Soluções-->

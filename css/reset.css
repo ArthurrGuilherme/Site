@@ -21,11 +21,8 @@
         width: 40% !important;
         box-shadow: 5px 10px 30px #fc6aed69;
     }
-    h2 {
-        margin: 0;
-    }
-    h3 {
-        margin: 0;
+    p, h1, h3, h2 {
+        margin: 0px;
     }
 /*Vareaveis*/
 /*Body*/
