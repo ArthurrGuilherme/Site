@@ -24,7 +24,7 @@
 </head>
 <body>
     <!--Container principal das paginas estaticas-->
-        <section style="background: url(./img/banner-principal.webp); background-size: cover">
+        <section  style="background: url(./img/banner-principal.webp); background-size: cover">
             <!--Header Primario-->
                 <?php echo "$headerprincial" ?>
             <!--Header Primario-->
@@ -48,12 +48,12 @@
                             <br>
                             <!--Btn Principal-->
                                 <span>
-                                    <button type="button" id="BtnContato" class="btn btn-dark">Contato</button>
+                                    <button type="button" style="font-weight: 700;" id="BtnContato" class="btn btn-dark">Contato</button>
                                 </span>
                             <!--Btn Principal-->
                             <!--Arrow-->
                                 <span id="Arrow" class="d-flex justify-content-center w-75 p-3">
-                                    <i style="font-size: 3.5rem;" class='bx bx-chevrons-down'></i>
+                                    <i style="font-size: 3.5rem; font-weight: 900;" class='bx bx-chevrons-down'></i>
                                 </span>
                             <!--Arrow-->
                         </article>
@@ -123,6 +123,7 @@
                             </span>
                         </div>
                         <!--Texto-->
+                        <br>
                         <!--Cards-->
                             <div id="SessaoCards" class="d-flex justify-content-between container-md p-4">
                                 <!--Markplaces-->
