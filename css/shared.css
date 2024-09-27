@@ -18,9 +18,6 @@
             opacity: 1;
         }
     /*Efeito do header secundario*/
-    #BtnHeaderSecundario {
-        color: var(--rosa-vendex);
-    }
 /*Header*/
 /*Icons de rede social*/
     #icons {
