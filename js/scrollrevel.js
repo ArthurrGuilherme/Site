@@ -76,3 +76,23 @@ ScrollReveal({ reset: true });
         }
     );
 /*Img Clientes/Parceiros*/
+ScrollReveal().reveal('#IconDiferenciais', 
+    {    
+        duration: 1000, reset: true, distance: '300px' , origin: 'rigt',
+    }
+);
+ScrollReveal().reveal('#IconDiferenciais02', 
+    {    
+        duration: 1000, reset: true, distance: '350px' , origin: 'rigt',
+    }
+);
+ScrollReveal().reveal('#IconDiferenciais03', 
+    {    
+        duration: 1000, reset: true, distance: '300px' , origin: 'rigt',
+    }
+);
+ScrollReveal().reveal('#IconDiferenciais04', 
+    {    
+        duration: 1000, reset: true, distance: '350px' , origin: 'rigt',
+    }
+);
