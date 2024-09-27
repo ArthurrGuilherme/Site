@@ -6,7 +6,6 @@ ScrollReveal({ reset: true });
             duration: 1000, reset: true, distance: '100px' , origin: 'bottom',
         }
     );
-
     ScrollReveal().reveal('#Img', 
         {    
             duration: 1000, reset: true, distance: '100px' , origin: 'top',
