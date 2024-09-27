@@ -62,6 +62,31 @@
             fill: var(--bs-white) !important;
         }
     }
+    #Cards04:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        #Caminho_86 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_87 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_88 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_89 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_90 {
+            fill: var(--bs-white) !important;
+        }
+    }
     #LinkCards {
         font-weight: 700;
         border-radius: 20px;
@@ -70,6 +95,8 @@
         display: flex;
         flex-direction: column;
         padding-bottom: 1rem;
+        color: var(--roxo-vendex);
+        font-weight: 700;
     }
 /*Cards*/
 /*Parcerias / Clientes*/
