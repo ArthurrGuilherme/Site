@@ -20,20 +20,13 @@
     /*Efeito do header secundario*/
 /*Header*/
 /*Icons de rede social*/
-    #icons {
-        font-size: 3.5rem !important;
-    }
     #icons02 {
-        font-size: 1.5rem !important;
         background: var(--bs-white);
         border-radius: 20px;
         padding: .5rem;
-        font-weight: 700;
-        color: var(--rosa-vendex);
     }
     #icons02:hover {
-        background: var(--rosa-vendex);
-        color: var(--bs-white);
+        background: var(--rosa-vendex) !important;
     }
 /*Icons de rede social*/
 /*Contato*/
