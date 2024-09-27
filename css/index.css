@@ -13,7 +13,7 @@
     #SessaoCards {
         gap: .8rem;
     }
-    #Cards {
+    #Cards, #Cards02, #Cards03, #Cards04, #Cards05 {
         border: 3px solid #b56afc !important;
     }
     #LinkCards:hover {
