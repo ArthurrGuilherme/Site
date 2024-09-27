@@ -1,0 +1,63 @@
+/*Index*/
+    #Arrow {
+        position: relative;
+        animation: mymove 2s infinite;
+    }
+    @keyframes mymove {
+        0% {top: 0px;}
+        25% {top: 25px;}
+        50% {top: 0px; }
+    }
+/*Index*/  
+/*Cards*/
+    #SessaoCards {
+        gap: .8rem;
+    }
+    #Cards, #Cards02, #Cards03, #Cards04, #Cards05 {
+        border: 3px solid #b56afc !important;
+        cursor: pointer;
+    }
+    #Cards:hover {
+        background: var(--background-vendx02);
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #Caminho_80 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_81 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_83 {
+            fill: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+    }
+    #LinkCards {
+        font-weight: 700;
+        border-radius: 20px;
+    }
+    .CardTexto {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 1rem;
+    }
+/*Cards*/
+/*Parcerias / Clientes*/
+    #ListaImg {
+        gap: 0.5rem;
+    }
+    #ListaImg li {
+        border-radius: 15px;
+        width: 9rem;
+        height: 9rem;
+    }
+/*Parcerias / Clientes*/
+/*Sessao Numero*/
+    #NumerosSessao {
+        gap: 5rem;
+    }
+/*Sessao Numero*/
