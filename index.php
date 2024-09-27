@@ -72,8 +72,8 @@
     <!--Conteudo Principal-->
         <main>
             <!--Soluções-->
-                <section>
-                    <article class="container-md d-flex justify-content-evenly align-items-center p-4">
+                <section class="p-5">
+                    <article class="container-md d-flex justify-content-evenly align-items-center p-5">
                         <!--Texto-->
                             <span id="SessaoTexto" style="color: var(--roxo-vendex);">
                                 <!--Titulo-->
