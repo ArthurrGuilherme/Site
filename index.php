@@ -204,9 +204,8 @@
                                         </div>
                                   <!--Automações-->
                                   <!--Trafego-->
-                                    <div id="Cards05" class="card bg-black text-center d-flex justify-content-center" style="width: 18rem;">
-                                        <br>
-                                        <svg class="w-100 p-3" xmlns="http://www.w3.org/2000/svg" width="256.602" height="153.846" viewBox="0 0 256.602 153.846">
+                                    <div id="Cards05" class="card bg-black text-center d-flex justify-content-center w-25">
+                                        <svg class="w-100 p-4" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 256.602 153.846">
                                             <g id="Grupo_56" data-name="Grupo 56" transform="translate(2758.716 485.787)">
                                               <path id="Caminho_102" data-name="Caminho 102" d="M-2608.409-455.62q-17.666,32.285-35.333,64.579c-1.5,2.766-4.166,5.268-7.469,5.357-3.142.163-5.841-2.129-7.25-4.764q-19.837-36.072-39.695-72.123c-1.752-2.9-1.982-7.045.565-9.573a8.76,8.76,0,0,1,5.284-2.467q13.633,24.786,27.279,49.564c1.088,2.037,3.173,3.809,5.6,3.687,2.547-.066,4.6-2,5.759-4.133q12.357-22.639,24.71-45.289l12.886.83a9.983,9.983,0,0,1,7.981,4.3C-2606.131-462.63-2606.681-458.624-2608.409-455.62Zm-32.013-14.484a4.341,4.341,0,0,0-3.474-1.874q-15.991-1.038-31.985-2.076a4.319,4.319,0,0,0-3.49,1.107,3.44,3.44,0,0,0-.244,4.166q8.633,15.713,17.288,31.415a3.6,3.6,0,0,0,3.158,2.079,4.058,4.058,0,0,0,3.248-2.334q7.686-14.052,15.366-28.115A4.266,4.266,0,0,0-2640.422-470.1Z" transform="translate(104.735 19.763)" fill="#cb6ce6"></path>
                                               <path id="Caminho_103" data-name="Caminho 103" d="M-2682.079-442.211h-14.257a4.087,4.087,0,0,1-4.075-4.075h0a4.085,4.085,0,0,1,4.075-4.075h14.257a4.086,4.086,0,0,1,4.075,4.075h0A4.087,4.087,0,0,1-2682.079-442.211Z" transform="translate(103.102 62.644)" fill="#fff"></path>
@@ -218,10 +217,13 @@
                                             </g>
                                           </svg>
                                         <div class="card-body">
-                                        <h5 style="color: var(--roxo-vendex); font-weight: 700;" class="card-title">Tráfego</h5>
-                                        <h5 style="color: var(--roxo-vendex); font-weight: 700;" class="card-title">Pago</h5>
-                                        <br>
-                                        <a href="#" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
+                                            <span class="CardTexto">
+                                                <h5 class="card-title">Tráfego</h5>
+                                                <h5 class="card-title">Pago</h5>
+                                            </span>
+                                            <span>
+                                                <a href="#" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
+                                            </span>    
                                         </div>
                                     </div>
                                 <!--Trafego-->    

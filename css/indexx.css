@@ -87,6 +87,37 @@
             fill: var(--bs-white) !important;
         }
     }
+    #Cards05:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        #Caminho_102 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_103 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_104 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_105 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_106 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_107 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_108 {
+            fill: var(--bs-white) !important;
+        }
+    }
     #LinkCards {
         font-weight: 700;
         border-radius: 20px;
