@@ -53,7 +53,7 @@
                             <!--Btn Principal-->
                             <!--Arrow-->
                                 <span id="Arrow" class="d-flex justify-content-center w-75 p-3">
-                                    <i id="icons" class='bx bx-chevrons-down'></i>
+                                    <i style="font-size: 3.5rem;" class='bx bx-chevrons-down'></i>
                                 </span>
                             <!--Arrow-->
                         </article>

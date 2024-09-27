@@ -35,7 +35,6 @@
             padding: 0.4rem 3.5rem;
             background: var(--bs-black) !important;
             border-radius: 15px;
-            font-weight: 700;
         }
         #BtnContato:hover{
             background: var(--bs-white) !important;
