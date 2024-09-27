@@ -49,6 +49,19 @@
             fill: var(--bs-white) !important;
         }
     }
+    #Cards03:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        .lupa {
+            fill: var(--bs-white) !important;
+        }
+    }
     #LinkCards {
         font-weight: 700;
         border-radius: 20px;
