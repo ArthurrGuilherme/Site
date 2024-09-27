@@ -644,51 +644,7 @@
         </main>
     <!--Conteudo Principal-->
     <!--Footer-->
-        <section>
-            <footer style="background: var(--background-vendx02)" class="p-5">
-                <article class="container-md d-flex justify-content-evenly align-items-center">
-                    <div class="text-light">
-                        <!--Img-->
-                            <img class="w-75" src="./img/LogoVendex.webp" alt="">
-                        <!--Img-->
-                        <br>
-                        <!--Texto-->
-                            <span>
-                                <p>Somos a solução que você precisa para acelerar suas</p>
-                                <p>vendas, alcançar os maiores Marketplaces e conquistar o</p>
-                                <p>mundo! A Vendex faz muito mais por você!</p>
-                            </span>    
-                        <!--Texto-->
-                    </div>
-                    <!--Icons redes Sociais-->
-                        <div>
-                            <span class="d-flex flex-column align-items-center">
-                                <br>
-                                <h4 class="text-light">Redes Sociais:</h4>
-                                <ul id="IconsHeader" class="d-flex flex-row">
-                                    <li>
-                                        <a href=""><i id="icons03" class='bx bxl-instagram'></i></a>
-                                    </li>
-                                    <li>
-                                        <a href=""><i id="icons03" class='bx bxl-linkedin' ></i></a>
-                                    </li>
-                                    <li>
-                                        <a href=""><i id="icons03" class='bx bxl-youtube' ></i></a>
-                                    </li>
-                                </ul>
-                            </span>
-                        </div>
-                    <!--Icons redes Sociais-->
-                </article>
-            </footer>
-            <article style="background: var(--roxo-vendex);" class="text-center p-1">
-                <!--Rodapé-->
-                    <div>
-                        <p>© 2024 Vendex Company | Todos os direitos reservados | Política de privacidade | Desenvolvido por Arthur Ribeiro</p>
-                    </div>
-                <!--Rodapé-->    
-            </article>
-        </section>    
+        <?php echo $footer ?>  
     <!--Footer-->
 </body>
     <!--Js-->

@@ -27,6 +27,7 @@
     }
     #icons02:hover {
         background: var(--rosa-vendex) !important;
+        fill: var(--bs-white) !important;
     }
 /*Icons de rede social*/
 /*Contato*/
@@ -36,17 +37,15 @@
 /*Contato*/    
 /*Contato redes sociais*/
     #icons03 {
-        font-size: 4rem !important;
         background: var(--bs-white);
         border-radius: 30px;
         padding: .5rem;
-        font-weight: 700;
-        color: var(--rosa-vendex);
         transition: all .5s;
+        cursor: pointer;
     }
     #icons03:hover {
         background: var(--rosa-vendex);
-        color: var(--bs-white);
+        fill: var(--bs-white) !important;
     }
     #IconsHeader {
         gap: 1rem;
