@@ -26,6 +26,10 @@
     }
 /*Vareaveis*/
 /*Button*/
+    #Btnconato03 {
+        border-radius: 20px;
+        padding: .5rem 2rem;
+    }
     /*Preto*/
         #BtnContato {
             padding: 0.4rem 3.5rem;
@@ -38,6 +42,18 @@
             color: var(--bs-black) !important;
         }
     /*Preto*/
+    /*Background*/
+        .Btn01 {
+            border-radius: 15px;
+            padding: .2rem 2rem;
+            transition: all .5s;
+            color: var(--bs-white);
+            background: linear-gradient(135deg, var(--roxo-vendex) 0%, var(--rosa-vendex) 100%) !important;
+        }
+        .Btn01:hover {
+            border-radius: 0px;
+        }
+    /*Background*/
 /*Button*/
 /*Body*/
     main {

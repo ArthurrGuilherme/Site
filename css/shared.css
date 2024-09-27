@@ -36,51 +36,43 @@
         color: var(--bs-white);
     }
 /*Icons de rede social*/
-/*Buttons*/
-    .Btn01 {
-        border-radius: 15px;
-        padding: .2rem 2rem;
-        transition: all .5s;
-        color: var(--bs-white);
-        background: linear-gradient(135deg, var(--roxo-vendex) 0%, var(--rosa-vendex) 100%) !important;
-    }
-    .Btn01:hover {
-        border-radius: 0px;
-    }
-    
-
-/*Buttons*/
 /*Contato*/
     .SectionContato {
         height: 20.5rem;
     }
 /*Contato*/    
-#icons03 {
-    font-size: 4rem !important;
-    background: var(--bs-white);
-    border-radius: 30px;
-    padding: .5rem;
-    font-weight: 700;
-    color: var(--rosa-vendex);
-    transition: all .5s;
-}
-#icons03:hover {
-    background: var(--rosa-vendex);
-    color: var(--bs-white);
-}
-
-input {
-    border-radius: 20px;
-    padding: 0.4rem 1rem;
-}
-select {
-    border-radius: 20px;
-    padding: 0.5rem 1rem;
-}
-#BtnFormulario {
-    border-radius: 20px;
-    transition: all .5s;
-}
-#BtnFormulario:hover {
-    background: var(--background-vendx);
-}
+/*Contato redes sociais*/
+    #icons03 {
+        font-size: 4rem !important;
+        background: var(--bs-white);
+        border-radius: 30px;
+        padding: .5rem;
+        font-weight: 700;
+        color: var(--rosa-vendex);
+        transition: all .5s;
+    }
+    #icons03:hover {
+        background: var(--rosa-vendex);
+        color: var(--bs-white);
+    }
+    #IconsHeader {
+        gap: 1rem;
+    }
+/*Contato redes sociais*/    
+/*Formulario*/
+    input {
+        border-radius: 20px;
+        padding: 0.4rem 1rem;
+    }
+    select {
+        border-radius: 20px;
+        padding: 0.5rem 1rem;
+    }
+    #BtnFormulario {
+        border-radius: 20px;
+        transition: all .5s;
+    }
+    #BtnFormulario:hover {
+        background: var(--background-vendx);
+    }
+/*Formulario*/

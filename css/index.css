@@ -9,32 +9,34 @@
         50% {top: 0px; }
     }
 /*Index*/  
-#SessaoCards {
-    gap: .8rem;
-}
-#Cards {
-    border: 3px solid #b56afc !important;
-}
-#LinkCards:hover {
-    background: var(--bs-white) !important;
-    color: var(--bs-black);
-}
-#LinkCards {
-    font-weight: 700;
-    border-radius: 20px;
-}
-#ListaImg {
-    gap: 0.5rem;
-}
-#ListaImg li {
-    border-radius: 15px;
-    width: 9rem;
-    height: 9rem;
-}
-#Btnconato03 {
- border-radius: 20px;
- padding: .5rem 2rem;
-}
-#NumerosSessao {
-    gap: 5rem;
-}
+/*Cards*/
+    #SessaoCards {
+        gap: .8rem;
+    }
+    #Cards {
+        border: 3px solid #b56afc !important;
+    }
+    #LinkCards:hover {
+        background: var(--bs-white) !important;
+        color: var(--bs-black);
+    }
+    #LinkCards {
+        font-weight: 700;
+        border-radius: 20px;
+    }
+/*Cards*/
+/*Parcerias / Clientes*/
+    #ListaImg {
+        gap: 0.5rem;
+    }
+    #ListaImg li {
+        border-radius: 15px;
+        width: 9rem;
+        height: 9rem;
+    }
+/*Parcerias / Clientes*/
+/*Sessao Numero*/
+    #NumerosSessao {
+        gap: 5rem;
+    }
+/*Sessao Numero*/
