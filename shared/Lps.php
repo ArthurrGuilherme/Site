@@ -138,3 +138,69 @@
     '
     ?>
 <!--Contato-->
+<!--Formulario-->
+    <?php $formulario = '
+        <section>
+                    <article>
+                        <!--Texto-->
+                        <div>
+                            <span class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h4 class="text-light">Entre em</h4>
+                                    <h3 style="color: var(--roxo-vendex);">CONTATO</h3>
+                                <!--Titulo-->
+                                <!--Texto-->
+                                    <span class="p-3">
+                                        <p class="text-light">Nossa equipe está pronta para atendê-lo, informe-nos qual o seu problema ou dúvida, entraremos em contato muito rápido!</p>
+                                    </span>
+                                <!--Texto-->
+                            </span>  
+                        </div>
+                        <!--Texto-->
+                        <!--Formulario-->
+                            <form class="d-flex flex-column justify-content-center container-md" action="">
+                                <!--Nome-->
+                                    <input placeholder="Nome Completo:" type="text" name="" id="">
+                                <!--Nome-->
+                                <br>
+                                <!--Email-->
+                                <input placeholder="Seu E-mail" type="email" name="" id="">
+                                <!--Email-->
+                                <br>
+                                <!--Telefone-->
+                                <input placeholder="Telefone para Contato" type="tel" name="" id="">
+                                <!--Telefone-->
+                                <br>
+                                <!--Faturamento-->
+                                    <select name="" id="" >
+                                        <option value="0">Selecione o seu faturamento mensal</option>
+                                        <option value="">0</option>
+                                        <option value="">1</option>
+                                        <option value="">2</option>
+                                        <option value="">3</option>
+                                        <option value="">4</option>
+                                    </select>
+                                <!--Faturamento-->
+                                <br>
+                                <!--Empresa-->
+                                <input placeholder="Nome da Empresa" type="text" name="" id="">
+                                <!--Empresa-->
+                                <br>
+                                <!--Aceito-->
+                                    <div class="custom-control custom-checkbox">
+                                        <input type="checkbox" class="custom-control-input" id="customCheck1">
+                                        <label class="custom-control-label text-light" for="customCheck1">Aceito receber comunicações.</label>
+                                    </div>
+                                <!--Aceito-->
+                                <br>
+                                <!--Button-->
+                                    <button id="BtnFormulario" class="w-25 p-1" type="submit">Enviar</button>
+                                <!--Button-->
+                            </form>
+                        <!--Formulario-->
+                    </article>
+                </section>
+            <!--Formulario-->
+    '
+    ?>
+<!--Formulario-->
