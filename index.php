@@ -234,51 +234,53 @@
                     <!--Mapa-->
                         <article class="container-md d-flex justify-content-evenly align-items-center text-light">
                             <!--Texto-->
-                                <span id="SessaoTexto">
-                                    <!--Titulo-->
-                                        <h4 >A Vendex</h4>
-                                        <h2 style="color: var(--roxo-vendex);">EM NÚMEROS</h2> 
-                                    <!--Titulo-->
-                                    <br>
-                                    <!--Legenda-->
-                                        <span>
-                                            <p>A Vendex tem uma variedade de serviços personalizados como</p>
-                                            <p>alternativas para solucionar as necessidades de nossos</p>
-                                            <p>clientes, porém, são os números a melhor expressão de nossos</p>
-                                            <p>resultados.</p>
+                            <span id="SessaoTexto">
+                                <!--Titulo-->
+                                <h4>A Vendex</h4>
+                                <h2 style="color: var(--roxo-vendex);">EM NÚMEROS</h2>
+                                <br>
+                                <!--Legenda-->
+                                <span>
+                                    <p>A Vendex tem uma variedade de serviços personalizados como</p>
+                                    <p>alternativas para solucionar as necessidades de nossos</p>
+                                    <p>clientes, porém, são os números a melhor expressão de nossos</p>
+                                    <p>resultados.</p>
+                                </span>
+                                <br>
+                                <!--Numeros-->
+                                <div id="NumerosSessao" class="d-flex">
+                                    <span>
+                                        <span class="d-flex align-items-center" style="color: var(--rosa-vendex);">
+                                            <h1>+</h1>
+                                            <h1 style="display: none" id="contador01">0</h1>
                                         </span>
-                                    <!--Legenda-->
-                                    <br>
-                                    <!--Numeros-->
-                                        <div id="NumerosSessao" class="d-flex">
-                                            <span>
-                                                <span class="d-flex align-items-center" style="color: var(--rosa-vendex);">
-                                                    <h1>+</h1>
-                                                    <h1 style="display: none" id="contador">0</h1>
-                                                </span>
-                                                <p >Clientes Ativos</p>
-                                            </span>
-                                            <span>
-                                                <h1 style="color: var(--rosa-vendex);">+178</h1>
-                                                <p>Contas Gerenciadas</p>
-                                            </span>
-                                        </div>
-                                        <br>
-                                        <div id="NumerosSessao" class="d-flex">
-                                            <span>
-                                                <h1 style="color: var(--rosa-vendex);">+27Milhões</h1>
-                                                <p>Reais Faturados</p>
-                                            </span>
-                                            <span>
-                                                <h1 style="color: var(--rosa-vendex);">+321Mil</h1>
-                                                <p>Pedidos Entregues</p>
-                                            </span>
-                                        </div>
-                                    <!--Numeros-->    
-                                </span>    
+                                        <p>Clientes Ativos</p>
+                                    </span>
+                                    <span>
+                                        <h1 style="color: var(--rosa-vendex);">+178</h1>
+                                        <p>Contas Gerenciadas</p>
+                                    </span>
+                                </div>
+                                <br>
+                                <div id="NumerosSessao" class="d-flex">
+                                    <span>
+                                        <span class="d-flex align-items-center" style="color: var(--rosa-vendex);">
+                                            <h1>+</h1>
+                                            <h1 style="display: none" id="contador02">0</h1>
+                                            <h1>Milhões</h1>
+                                        </span>
+                                        <p>Reais Faturados</p>
+                                    </span>
+                                    <span>
+                                        <h1 style="color: var(--rosa-vendex);">+321 Mil</h1>
+                                        <p>Pedidos Entregues</p>
+                                    </span>
+                                </div>
+                                <!--Numeros-->
+                            </span>
                             <!--Texto-->
                             <!--Img-->
-                                <img class="w-50"  src="./img/mapa-02.webp" alt="Imagem 01">
+                            <img class="w-50" src="./img/mapa-02.webp" alt="Imagem 01">
                             <!--Img-->
                         </article>
                     <!--Mapa-->    
