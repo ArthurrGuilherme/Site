@@ -230,7 +230,7 @@
                 <?php echo "$contato" ?>
             <!--Contato-->
             <!--Numeros-->
-                <section style="background: url(./img/background-numeros.webp); background-size: cover;">
+                <section id="sessaocliente" style="background: url(./img/background-numeros.webp); background-size: cover;">
                     <!--Mapa-->
                         <article class="container-md d-flex justify-content-evenly align-items-center text-light">
                             <!--Texto-->
@@ -252,7 +252,7 @@
                                     <!--Numeros-->
                                         <div id="NumerosSessao" class="d-flex">
                                             <span>
-                                                <h1 style="color: var(--rosa-vendex);">+51</h1>
+                                                <h1 id="contador" style="color: var(--rosa-vendex); display: none">+0</h1>
                                                 <p >Clientes Ativos</p>
                                             </span>
                                             <span>
