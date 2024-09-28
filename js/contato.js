@@ -17,5 +17,6 @@ function iniciarContagem(idContador, maxValor, intervalo) {
 
 document.getElementById('sessaocliente').addEventListener('mouseenter', () => {
     iniciarContagem('contador01', 51, 100);  // Clientes Ativos
-    iniciarContagem('contador02', 27, 100);  // Reais Faturados (Milhões)
+    iniciarContagem('contador02', 27, 190);  // Reais Faturados (Milhões)
+    iniciarContagem('contador03', 178, 30);
 });

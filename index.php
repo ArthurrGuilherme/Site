@@ -257,7 +257,10 @@
                                         <p>Clientes Ativos</p>
                                     </span>
                                     <span>
-                                        <h1 style="color: var(--rosa-vendex);">+178</h1>
+                                        <span class="d-flex align-items-center" style="color: var(--rosa-vendex);">
+                                            <h1>+</h1>
+                                            <h1 style="display: none" id="contador03">0</h1>
+                                        </span>
                                         <p>Contas Gerenciadas</p>
                                     </span>
                                 </div>
