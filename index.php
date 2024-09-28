@@ -27,10 +27,10 @@
     <!--Container principal das paginas estaticas-->
         <section  style="background: url(./img/banner-principal.webp); background-size: cover">
             <!--Header Primario-->
-                <?php echo "$headerprincial" ?>
+                <?php echo $headerprincial ?>
             <!--Header Primario-->
             <!--Header Secundario-->
-                <?php echo "$headersecundario" ?>
+                <?php echo $headersecundario ?>
             <!--Header Primario-->
             <!--Apresentação-->
                 <section style="padding: 5rem 0px 5rem 0px;" class="container-md d-flex justify-content-between" id="ContainerApresentacao">
@@ -227,33 +227,7 @@
                 </section>
             <!--Empresa-->
             <!--Contato-->
-                <section class="d-flex justify-content-center align-items-center" style="height: 34rem;">
-                    <article style="background: var(--background-vendx02);" class=" container-md d-flex justify-content-evenly  align-items-center">
-                        <!--Texto-->
-                            <div>
-                                <span id="SessaoTexto" class="text-light">
-                                    <h4>Entre em</h4>
-                                    <h3 class="text-black">Contato Conosco</h3>
-                                    <br>
-                                    <span >
-                                        <p>Temos uma equipe altamente capacitada para atendê-</p>
-                                        <p>los, com as melhores soluções personalizadas para o seu</p>
-                                        <p>negócio.</p>
-                                    </span>
-                                    <br>
-                                    <button id="Btnconato03" type="button" class="btn btn-outline-light">Contato</button>
-                                </span>
-                            </div>
-                        <!--Texto-->
-                        <!--img-->
-                            <div class="SectionContato">
-                                <span class="position-relative" style="bottom: 10rem;">
-                                    <img  class="w-100" src="./img/home-entre-em-contato.webp" alt="">
-                                </span> 
-                            </div>
-                        <!--img-->
-                    </article>
-                </section>
+                <?php echo "$contato" ?>
             <!--Contato-->
             <!--Numeros-->
                 <section style="background: url(./img/background-numeros.webp); background-size: cover;">
