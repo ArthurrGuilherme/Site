@@ -252,7 +252,10 @@
                                     <!--Numeros-->
                                         <div id="NumerosSessao" class="d-flex">
                                             <span>
-                                                <h1 id="contador" style="color: var(--rosa-vendex); display: none">+0</h1>
+                                                <span class="d-flex align-items-center" style="color: var(--rosa-vendex);">
+                                                    <h1>+</h1>
+                                                    <h1 style="display: none" id="contador">0</h1>
+                                                </span>
                                                 <p >Clientes Ativos</p>
                                             </span>
                                             <span>

@@ -3,9 +3,9 @@ let contadorElement = document.getElementById('contador');
         const maxClientes = 51;
 
         function iniciarContagem() {
-            contagem = 0; // Reinicia a contagem
-            contadorElement.style.display = 'block'; // Mostra o contador
-            contadorElement.textContent = contagem; // Reseta o texto do contador
+            contagem = 0; 
+            contadorElement.style.display = 'block'; 
+            contadorElement.textContent = contagem; 
         
             const interval = setInterval(() => {
                 if (contagem < maxClientes) {
@@ -14,9 +14,9 @@ let contadorElement = document.getElementById('contador');
                 } else {
                     clearInterval(interval);
                 }
-            }, 100); // Ajuste o intervalo conforme necessário
+            }, 100); 
         }
         
 
-        // Simulação de entrar na seção (substitua por sua lógica real)
+        
         document.getElementById('sessaocliente').addEventListener('mouseenter', iniciarContagem);
