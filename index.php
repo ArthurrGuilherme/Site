@@ -275,7 +275,11 @@
                                         <p>Reais Faturados</p>
                                     </span>
                                     <span>
-                                        <h1 style="color: var(--rosa-vendex);">+321 Mil</h1>
+                                        <span class="d-flex align-items-center" style="color: var(--rosa-vendex);">
+                                            <h1>+</h1>
+                                            <h1 style="display: none" id="contador04">0</h1>
+                                            <h1>Mil</h1>
+                                        </span>
                                         <p>Pedidos Entregues</p>
                                     </span>
                                 </div>
