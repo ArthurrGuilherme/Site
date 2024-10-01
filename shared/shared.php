@@ -42,7 +42,7 @@
                                                                 <!--Menu Drop-->
                                                                     <ul class="dropdown-menu" id="offcanvasNavbar">
                                                                         <li>
-                                                                            <a class="dropdown-item" href="#">Gestão de Marketplace</a>
+                                                                            <a class="dropdown-item" href="./gdm.php">Gestão de Marketplace</a>
                                                                         </li>
                                                                         <li>
                                                                             <a class="dropdown-item" href="#">Consultoria de Venda</a>
