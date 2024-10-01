@@ -169,6 +169,56 @@
                 </article>
             </section>
         <!--Serviços-->
+        <!--Integralçao-->
+            <section class="p-3">
+                <article class="container-md d-flex justify-content-evenly align-items-center">
+                    <!--Texto-->
+                        <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
+                            <!--Titulo-->
+                                <h4 class="text-light">Gestão para Marketplace</h4>
+                                <h3>GESTÃO E INTEGRAÇÃO DE ERP</h3>
+                            <!--Titulo-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p><strong style="color: var(--rosa-vendex);">Integração do sistema ERP com todos os marketplaces:</strong> o ERP</p>
+                                    <p>para marketplaces é um sistema de gestão integrada para</p>
+                                    <p>quem vende online em pelo menos uma plataforma de e-</p>
+                                    <p>commerce compartilhada, que gerencia seu estoque sem</p>
+                                    <p>burocracia.</p>
+                                </span>
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p><strong style="color: var(--rosa-vendex);">Melhoria de processo de expedição utilizando o ERP:</strong>o</p>
+                                    <p>controle do processo de expedição é extremamente</p>
+                                    <p>importante, deve oferecer agilidade e qualidade, entregando o</p>
+                                    <p>produto do cliente no prazo acordado, gerando a satisfação</p>
+                                    <p>para o consumidor final, evitando danos irreparáveis na</p>
+                                    <p>imagem da empresa.</p>
+                                </span>
+                            <!--Legenda-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p><strong style="color: var(--rosa-vendex);">Relatórios de performance:</strong>os relatórios gerados pelo sistema</p>
+                                    <p>ERP detalham com segurança e assertividade as informações</p>
+                                    <p>necessárias para a tomada de decisões, em todos os setores</p>
+                                    <p>administrativos da empresa, conduzindo-a ao sucesso!</p>
+                                </span>
+                            <!--Legenda-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p><strong style="color: var(--rosa-vendex);">Como utilizar o sistema de forma otimizada:</strong>o sistema de</p>
+                                    <p>gestão ERP agrupa todos os setores administrativos de uma</p>
+                                    <p>empresa, integralizando em um único software, distribuindo as</p>
+                                    <p>informações com precisão, eficiência e agilidade.</p>
+                                </span>
+                            <!--Legenda-->
+                        </span>    
+                    <!--Texto-->
+                    <!--Img-->
+                        <img style="width: 30% !important; border-radius: 0px" class="w-25" id="Img" src="./img/gestao-erp-servicos.webp" alt="Imagem 01">
+                    <!--Img-->
+                </article>
+            </section>
+        <!--Integralçao-->
     </main>
 </body>
     <?php echo $headjs ?>
