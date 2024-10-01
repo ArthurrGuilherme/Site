@@ -66,6 +66,53 @@
                 </article>
             </section>
         <!--Equipe-->
+        <!--Sobre Nós-->
+            <section>
+                <article class="container-md d-flex justify-content-evenly align-items-center">
+                    <!--Texto-->
+                        <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
+                            <!--Titulo-->
+                                <h4 class="text-light">Gestão para Marketplace</h4>
+                                <h3>CADASTRO DE PRODUTOS</h3>
+                            <!--Titulo-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Nossa equipe será responsável pela gestão dos seus canais de</p>
+                                    <p>vendas em todos os seus marketplaces de ponta a ponta!</p>
+                                </span>
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Seremos responsáveis por todas as ações desde a</p>
+                                    <p>implementação / integração do seu ERP, bem como a criação /</p>
+                                    <p>configuração de sua empresa nos marketplaces, (com seleção</p>
+                                    <p>do layout de seu e-commerce logo, cores e textos).</p>
+                                </span>
+                            <!--Legenda-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Faremos os cadastros e configuração de seus produtos na</p>
+                                    <p>plataforma do ERP / e-commerce, com descrição personalizada</p>
+                                    <p>e utilizando-se de técnicas de SEO, para otimização de imagens</p>
+                                    <p>e de conteúdos, com precificação específica para cada canal.</p>
+                                </span>
+                            <!--Legenda-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Contamos com gestores de e-commerce online para executar</p>
+                                    <p>os processos operacionais com foco no cliente e no crescimento</p>
+                                    <p>sólido, reportando os resultados semanalmente. Nosso time</p>
+                                    <p>utiliza de ferramentas de desenvolvimento próprias para</p>
+                                    <p>garantir que seu preço de venda seja ideal e que sua a margem</p>
+                                    <p>de lucro seja a melhor da sua categoria!</p>
+                                </span>
+                            <!--Legenda-->
+                        </span>    
+                    <!--Texto-->
+                    <!--Img-->
+                        <img style="width: 30% !important;" class="w-25" id="Img" src="./img/gestao-marketplace-servicos.webp" alt="Imagem 01">
+                    <!--Img-->
+                </article>
+            </section>
+        <!--Sobre Nós-->
     </main>
 </body>
     <?php echo $headjs ?>
