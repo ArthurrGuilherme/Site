@@ -240,3 +240,55 @@
     '
     ?>
 <!--Redes Sociais--> 
+<!--Parceiros-->
+    <?php $Parceiros = '
+        <section class="p-3">
+                    <article>
+                        <!--Texto-->
+                        <div>
+                            <span class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h3 style="color: var(--roxo-vendex);">NOSSOS PARCEIROS</h3>
+                                <!--Titulo-->
+                                <br>
+                                <!--Texto-->
+                                    <span class="text-light">
+                                        <p>Além da nossa equipe de profissionais, contamos com parcerias de primeira grandeza para</p>
+                                        <p>garantir o sucesso de seu negócio!</p>
+                                    </span>
+                                <!--Texto-->
+                            </span>
+                            <!--Img-->
+                                <span class="p-2">
+                                    <ul id="ListaImg" class="d-flex justify-content-center">
+                                        <li id="ClienteParceiros" class="bg-light d-flex justify-content-center align-items-center">
+                                            <img class="w-100" src="./img/logo-amazon.webp" alt="" srcset="">
+                                        </li>
+                                        <li id="ClienteParceiros02" class="bg-light d-flex justify-content-center align-items-center">
+                                            <img class="w-100" src="./img/logo-magalu.webp" alt="" srcset="">
+                                        </li>
+                                        <li id="ClienteParceiros03" class="bg-light d-flex justify-content-center align-items-center">
+                                            <img class="w-75" src="./img/logo-mercadolivre.webp" alt="" srcset="">
+                                        </li>
+                                        <li id="ClienteParceiros04" class="bg-light d-flex justify-content-center align-items-center">
+                                            <img class="w-75" src="./img/logo-mercadoturbo (1).webp" alt="" srcset="">
+                                        </li>
+                                        <li id="ClienteParceiros05" class="bg-light d-flex justify-content-center align-items-center">
+                                            <img class="w-75" src="./img/logo-nubimetrics.webp" alt="" srcset="">
+                                        </li>
+                                        <li id="ClienteParceiros06" class="bg-light d-flex justify-content-center align-items-center">
+                                            <img class="w-75" src="./img/logo-shopee.webp" alt="" srcset="">
+                                        </li>
+                                        <li id="ClienteParceiros07" class="bg-light d-flex justify-content-center align-items-center">
+                                            <img class="w-100" src="./img/logo-tiny.webp" alt="" srcset="">
+                                        </li>
+                                    </ul>
+                                </span>
+                            <!--Img-->    
+                        </div>
+                        <!--Texto-->
+                    </article>
+                </section>
+    '
+    ?>    
+<!--Parceiros-->
