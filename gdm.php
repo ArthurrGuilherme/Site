@@ -231,45 +231,46 @@
             <section>
                 <article class="container-md d-flex justify-content-evenly align-items-center">
                     <!--Img-->
-                        <img style="width: 30% !important; border-radius: 0px" class="w-25" id="Img" src="./img/gestao-erp-servicos.webp" alt="Imagem 01">
+                        <img style=" border-radius: 0px" class="w-50" id="Img" src="./img/gestao-trafego-servicos.webp" alt="Imagem 01">
                     <!--Img-->
                     <!--Texto-->
                         <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
                             <!--Titulo-->
-                                <h4 class="text-light">Gestão para Marketplace</h4>
-                                <h3>GESTÃO E INTEGRAÇÃO DE ERP</h3>
+                                <span class="text-light">
+                                    <h4>Gestão e Alta Performance. Aqui</h4>
+                                    <h4>trabalhamos com dados</h4>
+                                </span> 
+                                <span>   
+                                    <h3>A Vendex possui</h3>
+                                    <h3>especialistas em dados,</h3>
+                                    <h3>garantindo assim racional</h3>
+                                    <h3>para as decisões!</h3>
+                                </span>
                             <!--Titulo-->
                             <!--Legenda-->
                                 <span style="font-size: 0.8rem;" class="text-light">
-                                    <p><strong style="color: var(--rosa-vendex);">Integração do sistema ERP com todos os marketplaces:</strong> o ERP</p>
-                                    <p>para marketplaces é um sistema de gestão integrada para</p>
-                                    <p>quem vende online em pelo menos uma plataforma de e-</p>
-                                    <p>commerce compartilhada, que gerencia seu estoque sem</p>
-                                    <p>burocracia.</p>
+                                    <p><strong style="color: var(--rosa-vendex);">Estratégias de curva ABC:</strong>A curva ABC ou Classificação ABC, é</p>
+                                    <p>uma metodologia que permite o ranqueamento das informações</p>
+                                    <p>identificando assim os produtos com maior potencial de receita</p>
+                                    <p>para sua empresa. Utilizamos esta ferramenta para controle de</p>
+                                    <p>estoque ou para organizar processos internos do seu negócio,</p>
+                                    <p>gerando assim vantagem competitiva.</p>
                                 </span>
                                 <span style="font-size: 0.8rem;" class="text-light">
-                                    <p><strong style="color: var(--rosa-vendex);">Melhoria de processo de expedição utilizando o ERP:</strong>o</p>
-                                    <p>controle do processo de expedição é extremamente</p>
-                                    <p>importante, deve oferecer agilidade e qualidade, entregando o</p>
-                                    <p>produto do cliente no prazo acordado, gerando a satisfação</p>
-                                    <p>para o consumidor final, evitando danos irreparáveis na</p>
-                                    <p>imagem da empresa.</p>
-                                </span>
-                            <!--Legenda-->
-                            <!--Legenda-->
-                                <span style="font-size: 0.8rem;" class="text-light">
-                                    <p><strong style="color: var(--rosa-vendex);">Relatórios de performance:</strong>os relatórios gerados pelo sistema</p>
-                                    <p>ERP detalham com segurança e assertividade as informações</p>
-                                    <p>necessárias para a tomada de decisões, em todos os setores</p>
-                                    <p>administrativos da empresa, conduzindo-a ao sucesso!</p>
+                                    <p><strong style="color: var(--rosa-vendex);">Análise de Concorrência:</strong>Nosso time trabalha para trazer para</p>
+                                    <p>sua empresa uma visão 360° de todo dinamismo do seu</p>
+                                    <p>mercado. Entendendo no detalhe o posicionamento dos seus</p>
+                                    <p>concorrentes vai nos permitir traçar estratégias diferenciadas e</p>
+                                    <p>também antecipar tendências.</p>
                                 </span>
                             <!--Legenda-->
                             <!--Legenda-->
                                 <span style="font-size: 0.8rem;" class="text-light">
-                                    <p><strong style="color: var(--rosa-vendex);">Como utilizar o sistema de forma otimizada:</strong>o sistema de</p>
-                                    <p>gestão ERP agrupa todos os setores administrativos de uma</p>
-                                    <p>empresa, integralizando em um único software, distribuindo as</p>
-                                    <p>informações com precisão, eficiência e agilidade.</p>
+                                    <p><strong style="color: var(--rosa-vendex);">Estratégia de Categorias / Nicho e Produtos:</strong>Conhecer com</p>
+                                    <p>profundidade o mercado que está inserido nos permite atuar de</p>
+                                    <p>forma mais específica, objetiva e assertiva as demandas do seu</p>
+                                    <p>cliente. Nossa análise detalhada nos permite a tomada de</p>
+                                    <p>decisões de forma mais personalidade para seu negócio.</p>
                                 </span>
                             <!--Legenda-->
                         </span>    
