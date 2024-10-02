@@ -219,6 +219,11 @@
                 </article>
             </section>
         <!--Integralçao-->
+        <!--Parceiros-->
+            <section class="p-3">
+                <?php echo $Parceiros ?>
+            </section> 
+        <!--Parceiros-->
     </main>
 </body>
     <?php echo $headjs ?>
