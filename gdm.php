@@ -395,7 +395,11 @@
         <!--Formulario-->
             <?php echo $formulario ?>  
         <!--Formulario-->
+        <br><br>
     </main>
+    <!--Footer-->
+        <?php echo $footer ?>  
+    <!--Footer-->
 </body>
     <?php echo $headjs ?>
 </html>
