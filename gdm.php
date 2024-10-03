@@ -387,6 +387,11 @@
                 </article>
             </section>
         <!--Serviços-->
+        <br>
+        <!--Redes Sociais-->
+            <?php echo $redes ?> 
+        <!--Redes Sociais-->
+        <br>
     </main>
 </body>
     <?php echo $headjs ?>
