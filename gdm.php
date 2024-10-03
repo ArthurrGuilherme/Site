@@ -355,6 +355,38 @@
                 </article>
             </section>
         <!--Clientes-->
+        <!--Serviços-->
+            <section>
+                <article>
+                    <!--Texto-->
+                        <div>
+                            <span style="color: var(--roxo-vendex);" class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h4 class="text-light">Conheça Agora</h4>
+                                    <h3>NOSSOS SERVIÇOS ADICIONAIS</h3>
+                                <!--Titulo-->
+                            </span>
+                        </div>
+                    <!--Texto-->
+                    <!--Cards-->
+                        <div id="SessaoCards" class="d-flex justify-content-between container-md p-4">
+                            <!--Consultoria-->
+                                <?php echo $consuultoria ?>
+                            <!--Consultoria-->
+                            <!--Ads-->
+                                <?php echo $ads ?>
+                            <!--Ads-->
+                            <!--Automações-->
+                                <?php echo $automacoes ?>  
+                            <!--Automações-->
+                            <!--Trafego-->
+                                <?php echo $trafego ?>
+                            <!--Trafego-->    
+                        </div>
+                    <!--cards-->
+                </article>
+            </section>
+        <!--Serviços-->
     </main>
 </body>
     <?php echo $headjs ?>
