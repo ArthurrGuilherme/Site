@@ -374,7 +374,7 @@
                                 <?php echo $consuultoria01 ?>
                             <!--Consultoria-->
                             <!--Ads-->
-                                <?php echo $ads ?>
+                                <?php echo $ads01 ?>
                             <!--Ads-->
                             <!--Automações-->
                                 <?php echo $automacoes ?>  
