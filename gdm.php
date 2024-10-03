@@ -340,18 +340,13 @@
                                 <br>
                                 <span id="IconDiferenciais01" style="gap: 1rem;" class="d-flex justify-content-center align-items-center">
                                     <span style="background: #404040; padding: 1.2rem 1.1rem; border-radius: 15px;" class="justify-content-center align-items-center">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 85.714 75">
-                                            <g id="Grupo_73" data-name="Grupo 73" transform="translate(-1013 -1465)">
-                                              <path id="Caminho_180" data-name="Caminho 180" d="M7.555,22.5H18.166a5.305,5.305,0,0,1,5.305,5.305V43.722a5.305,5.305,0,0,1-5.305,5.305H7.555A5.305,5.305,0,0,1,2.25,43.722V27.805A5.305,5.305,0,0,1,7.555,22.5Z" transform="translate(1016.056 1490.973)" fill="#b56afc"></path>
-                                              <path id="Caminho_181" data-name="Caminho 181" d="M18.805,13.5H29.416a5.305,5.305,0,0,1,5.305,5.305V55.943a5.305,5.305,0,0,1-5.305,5.305H18.805A5.305,5.305,0,0,1,13.5,55.943V18.805A5.305,5.305,0,0,1,18.805,13.5Z" transform="translate(1031.746 1478.751)" fill="#b56afc"></path>
-                                                <path id="Caminho_183" data-name="Caminho 183" d="M30.055,2.25H40.666a5.331,5.331,0,0,1,5.305,5.357V71.893a5.331,5.331,0,0,1-5.305,5.357H30.055a5.331,5.331,0,0,1-5.305-5.357V7.607A5.331,5.331,0,0,1,30.055,2.25Z" transform="translate(1047.438 1462.75)" fill="#b56afc"></path>
-                                              <path id="Caminho_182" data-name="Caminho 182" d="M0,34.153A2.666,2.666,0,0,1,2.679,31.5H83.036a2.653,2.653,0,1,1,0,5.305H2.679A2.666,2.666,0,0,1,0,34.153Z" transform="translate(1013 1503.195)" fill="#b56afc" fill-rule="evenodd"></path>
-                                            </g>
-                                            </svg>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 73.175 73.004">
+                                            <path id="check-circle-u" d="M36.5.25A35.44,35.44,0,0,1,62.378,10.96a35.017,35.017,0,0,1,10.8,25.792,35.017,35.017,0,0,1-10.8,25.792A35.44,35.44,0,0,1,36.5,73.254,35.162,35.162,0,0,1,10.71,62.544,35.147,35.147,0,0,1,0,36.752,35.168,35.168,0,0,1,10.71,10.96,35.153,35.153,0,0,1,36.5.25ZM54.839,58.688V51.32h-36.5v7.368ZM30.333,44.122,54.839,19.616,49.7,14.474,30.333,33.84l-6.854-7.027-5.141,5.141Z" transform="translate(0 -0.25)" fill="#b56afc"></path>
+                                        </svg>
                                     </span>
                                     <span class="text-light">
+                                        <p>Melhores</p>
                                         <p>Resultados</p>
-                                        <p>Comprovados</p>
                                     </span>
                                 </span>
                             </div>
