@@ -377,7 +377,7 @@
                                 <?php echo $ads01 ?>
                             <!--Ads-->
                             <!--Automações-->
-                                <?php echo $automacoes ?>  
+                                <?php echo $automacoes01 ?>  
                             <!--Automações-->
                             <!--Trafego-->
                                 <?php echo $trafego ?>

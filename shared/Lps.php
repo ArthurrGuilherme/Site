@@ -127,6 +127,33 @@
                                             </div>
     '
     ?>
+    <?php $automacoes01 = '
+        <div id="Cards04" class="card bg-black text-center d-flex justify-content-center  w-25">
+                                                <svg class="w-100 p-4" id="Grupo_54" data-name="Grupo 54" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 159.532 206.158">
+                                                    <path id="Caminho_86" data-name="Caminho 86" d="M-2378.313-460.439q-16.9,30.894-33.809,61.8c-1.433,2.646-3.987,5.041-7.147,5.126-3.007.156-5.589-2.037-6.935-4.559q-18.984-34.517-37.983-69.014c-1.677-2.773-1.9-6.742.54-9.16a8.378,8.378,0,0,1,5.058-2.36q13.044,23.718,26.1,47.427c1.044,1.95,3.036,3.645,5.357,3.528,2.437-.063,4.405-1.91,5.509-3.955q11.829-21.663,23.647-43.337l12.328.795a9.544,9.544,0,0,1,7.637,4.114C-2376.133-467.146-2376.657-463.313-2378.313-460.439Zm-30.63-13.859a4.161,4.161,0,0,0-3.325-1.793q-15.3-.993-30.609-1.987a4.139,4.139,0,0,0-3.34,1.06,3.3,3.3,0,0,0-.233,3.987q8.264,15.036,16.545,30.06a3.435,3.435,0,0,0,3.02,1.989,3.89,3.89,0,0,0,3.109-2.233q7.355-13.446,14.7-26.9A4.08,4.08,0,0,0-2408.943-474.3Z" transform="translate(2536.351 521.828)" fill="#cb6ce6"></path>
+                                                    <path id="Caminho_87" data-name="Caminho 87" d="M-2373.163-352.864l2.405,13.584-68.865,36.715-32.05-181.089,77.284,10.85,2.4,13.584,3.356-.6-2.509-14.164c-.652-3.682-3.211-7.028-5.77-7.483l-74.947-13.359a7.1,7.1,0,0,0-2.191-.034l-.008-.042-13.126,2.318c-3.385.6-5.591,4.138-4.924,7.9l33.642,190.088c.667,3.767,3.952,6.334,7.338,5.735l12.23-2.164,0-.045a6.885,6.885,0,0,0,2.935-.948l65.811-38.272c2.247-1.306,3.5-5.327,2.851-9.009l-2.506-14.164Z" transform="translate(2492.224 494.926)" fill="#cb6ce6"></path>
+                                                    <path id="Caminho_88" data-name="Caminho 88" d="M-2448.843-446.562h-13.645a3.913,3.913,0,0,1-3.9-3.9h0a3.911,3.911,0,0,1,3.9-3.9h13.645a3.912,3.912,0,0,1,3.9,3.9h0A3.913,3.913,0,0,1-2448.843-446.562Z" transform="translate(2534.827 561.816)" fill="#fff"></path>
+                                                    <path id="Caminho_89" data-name="Caminho 89" d="M-2455.843-457.6h-13.645a3.913,3.913,0,0,1-3.9-3.9h0a3.911,3.911,0,0,1,3.9-3.9h13.645a3.911,3.911,0,0,1,3.9,3.9h0A3.913,3.913,0,0,1-2455.843-457.6Z" transform="translate(2523.284 543.62)" fill="#fff"></path>
+                                                    <path id="Caminho_90" data-name="Caminho 90" d="M-2446.7-451.767h-21.83a4.1,4.1,0,0,1-4.093-4.093h0a4.1,4.1,0,0,1,4.093-4.093h21.83a4.106,4.106,0,0,1,4.1,4.093h0A4.106,4.106,0,0,1-2446.7-451.767Z" transform="translate(2524.542 552.597)" fill="#fff"></path>
+                                                </svg>
+                                                <div class="card-body">
+                                                    <span class="CardTexto">
+                                                        <h5 class="card-title">Automações</h5>
+                                                    </span>
+                                                    <span class="CardTexto text-light">
+                                                        <p>O tráfego pago é uma</p>
+                                                        <p>estratégia de marketing,</p>
+                                                        <p>proveniente de anúcios</p>
+                                                        <p>em redes socias,</p>
+                                                        <p>mecanismo de buscas</p>
+                                                    </span>
+                                                    <span>
+                                                        <a href="#" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
+                                                    </span>
+                                                </div>
+                                            </div>
+    '
+    ?>
     <?php $trafego = '
         <div id="Cards05" class="card bg-black text-center d-flex justify-content-center w-25">
                                             <svg class="w-100 p-4" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 256.602 153.846">
