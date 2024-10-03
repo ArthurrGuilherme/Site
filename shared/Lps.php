@@ -45,6 +45,29 @@
                                         </div>
     '
     ?>
+    <?php $consuultoria01 = '
+        <div id="Cards02" class="card bg-black text-center d-flex justify-content-center  w-25">
+                                            <svg class="w-100 p-4" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 193.05 184.57"><defs><style>.cls-1{fill:#cb6ce6;}.cls-2{fill:#fff;}</style></defs><title>Ativo 1</title><g id="Camada_2" data-name="Camada 2"><g id="Camada_1-2" data-name="Camada 1"><path class="cls-1" d="M135.53,86.89q-15.3,28-30.6,55.92c-1.29,2.39-3.6,4.56-6.46,4.64s-5.06-1.85-6.28-4.13Q75,112.09,57.82,80.87c-1.52-2.51-1.72-6.1.49-8.29a7.56,7.56,0,0,1,4.57-2.13Q74.69,91.9,86.5,113.36a5.54,5.54,0,0,0,4.85,3.2c2.21-.06,4-1.73,5-3.58l21.39-39.22,11.16.72a8.66,8.66,0,0,1,6.91,3.72C137.5,80.82,137,84.29,135.53,86.89ZM107.81,74.35a3.74,3.74,0,0,0-3-1.62q-13.85-.9-27.7-1.8a3.71,3.71,0,0,0-3,1,3,3,0,0,0-.21,3.61l15,27.2a3.12,3.12,0,0,0,2.73,1.8,3.54,3.54,0,0,0,2.82-2l13.3-24.35A3.69,3.69,0,0,0,107.81,74.35Z"></path><path class="cls-1" d="M5.48,30.54H25.34a3.68,3.68,0,0,0,3.05-1.25L47.29,0H27.59l-25,27.66C1.43,29,3,30.54,5.48,30.54Z"></path><path class="cls-1" d="M60.69,30.54h18c2.29,0,4.19-1.05,4.37-2.42L86.7,0H67L56.41,27.33C55.78,29,57.87,30.54,60.69,30.54Z"></path><path class="cls-1" d="M115,30.54h16.6c3.23,0,5.63-1.8,4.9-3.69L126.1,0H106.4L110,27.76C110.18,29.33,112.37,30.54,115,30.54Z"></path><path class="cls-1" d="M169.8,30.54h16.25c3.18,0,5.21-2,3.69-3.71L165.51,0h-19.7L164,28.15C164.9,29.59,167.21,30.54,169.8,30.54Z"></path><path class="cls-1" d="M13.81,55.39A13.81,13.81,0,0,0,27.63,41.58v-2.3a3,3,0,0,0-3-3H3a3,3,0,0,0-3,3v2.3A13.81,13.81,0,0,0,13.81,55.39Z"></path><path class="cls-1" d="M69,55.39A13.81,13.81,0,0,0,82.8,41.58V40.07a3.75,3.75,0,0,0-3.75-3.75H58.92a3.75,3.75,0,0,0-3.75,3.75v1.51A13.81,13.81,0,0,0,69,55.39Z"></path><path class="cls-1" d="M114.05,36.32a3.75,3.75,0,0,0-3.75,3.75v1.51a13.82,13.82,0,0,0,27.63,0V40.07a3.75,3.75,0,0,0-3.76-3.75Z"></path><path class="cls-1" d="M189.3,36.32H169.18a3.75,3.75,0,0,0-3.76,3.75v1.51a13.81,13.81,0,0,0,13.82,13.81h0a13.81,13.81,0,0,0,13.81-13.81V40.07A3.75,3.75,0,0,0,189.3,36.32Z"></path><polygon class="cls-2" points="14.74 63.87 14.74 166.04 95.91 166.04 97.19 166.04 178.35 166.04 178.35 63.87 168.52 63.87 168.52 156.31 97.19 156.31 95.91 156.31 24.57 156.31 24.57 63.87 14.74 63.87"></polygon><path class="cls-2" d="M96.55,170.78H2.33S1,184.57,17,184.57H176.11c15.95,0,14.65-13.79,14.65-13.79Z"></path></g></g></svg>
+                                                <div class="card-body">
+                                                    <span class="CardTexto">
+                                                        <h5 class="card-title">Consultoria</h5>
+                                                        <h5 class="card-title">De Venda</h5>
+                                                    </span>
+                                                    <span class="CardTexto text-light">
+                                                        <p>A vendex fornece uma</p>
+                                                        <p>ampla consultoria</p>
+                                                        <p>para capacitar os seus</p>
+                                                        <p>sellers a atuarem com</p>
+                                                        <p>sucesso nos</p>
+                                                        <p>marketplaces</p>
+                                                    </span>
+                                                    <span>
+                                                        <a href="#" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
+                                                    </span>
+                                                </div>
+                                        </div>
+    '
+    ?>
     <?php $ads = '
         <div id="Cards03" class="card bg-black text-center d-flex justify-content-center  w-25">
                                             <svg class="w-100 p-4" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 24 24" style="fill: rgba(203,108,230);transform: ;msFilter:;"><path class="lupa" d="M19.023 16.977a35.13 35.13 0 0 1-1.367-1.384c-.372-.378-.596-.653-.596-.653l-2.8-1.337A6.962 6.962 0 0 0 16 9c0-3.859-3.14-7-7-7S2 5.141 2 9s3.14 7 7 7c1.763 0 3.37-.66 4.603-1.739l1.337 2.8s.275.224.653.596c.387.363.896.854 1.384 1.367l1.358 1.392.604.646 2.121-2.121-.646-.604c-.379-.372-.885-.866-1.391-1.36zM9 14c-2.757 0-5-2.243-5-5s2.243-5 5-5 5 2.243 5 5-2.243 5-5 5z"></path></svg>

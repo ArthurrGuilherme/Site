@@ -371,7 +371,7 @@
                     <!--Cards-->
                         <div id="SessaoCards" class="d-flex justify-content-between container-md p-4">
                             <!--Consultoria-->
-                                <?php echo $consuultoria ?>
+                                <?php echo $consuultoria01 ?>
                             <!--Consultoria-->
                             <!--Ads-->
                                 <?php echo $ads ?>
