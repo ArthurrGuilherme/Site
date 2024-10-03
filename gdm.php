@@ -380,7 +380,7 @@
                                 <?php echo $automacoes01 ?>  
                             <!--Automações-->
                             <!--Trafego-->
-                                <?php echo $trafego ?>
+                                <?php echo $trafego01 ?>
                             <!--Trafego-->    
                         </div>
                     <!--cards-->
