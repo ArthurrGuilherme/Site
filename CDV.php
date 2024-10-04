@@ -33,11 +33,13 @@
                     <!--Estrutura texto-->
                         <article class="d-flex flex-column">
                             <!--Titulo-->
-                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Gestão de Marketplace</h1>
+                                <span style="padding-bottom: 2rem; font-weight: 700;">
+                                    <h1>Consultoria de</h1>
+                                    <h1 >Venda em Marketplace</h1>
+                                </span>
                             <!--Titulo-->
                             <!--Texto-->
-                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Descubra o que nossos especialistas podem</p>
-                                <p style="font-weight: 900; font-size: 1.1rem">fazer por sua empresa!</p></strong>
+                                <strong ><p style="font-weight: 700; font-size: 1.1rem">A mais completa assessoria em vendas!</p>
                             <!--Texto-->
                         </article>
                     <!--Estrutura texto-->
