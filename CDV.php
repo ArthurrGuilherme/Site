@@ -21,7 +21,7 @@
 </head>
 <body>
     <!--Container principal das paginas estaticas-->
-        <section  style="background: url(./img/bn-empresa.webp); background-size: cover">
+        <section  style="background: url(./img/bn-gestao.webp); background-size: cover">
             <!--Header Primario-->
                 <?php echo $headerprincial ?>
             <!--Header Primario-->

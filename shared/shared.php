@@ -45,7 +45,7 @@
                                                                             <a class="dropdown-item" href="./gdm.php">Gestão de Marketplace</a>
                                                                         </li>
                                                                         <li>
-                                                                            <a class="dropdown-item" href="#">Consultoria de Venda</a>
+                                                                            <a class="dropdown-item" href="./CDV.php">Consultoria de Venda</a>
                                                                         </li>
                                                                         <li>
                                                                             <a class="dropdown-item" href="#">Gestão de Ads</a>
