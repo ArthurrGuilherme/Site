@@ -48,7 +48,26 @@
         </section>
     <!--Container principal das paginas estaticas-->  
     <main>
-
+        <!--Performance-->
+            <section class="p-5">
+                <article>
+                    <!--Texto-->
+                    <div>
+                        <span class="d-flex flex-column align-items-center text-center">
+                            <!--Titulo-->
+                                <h4 class="text-light">UM TIME DE ALTA PERFORMANCE!</h4>
+                            <!--Titulo-->
+                            <!--Texto-->
+                                <span class="text-light">
+                                    <p>Com uma equipe experiente em otimização de vendas, oferecemos o melhor treinamento para seus sellers, no</p>
+                                    <p>gerenciamento do seu e-commerce nos melhores marketplaces.</p>
+                                </span>
+                            <!--Texto-->
+                        </span>
+                    </div>
+                </article>
+            </section>
+        <!--Performance-->
     </main>
     <!--Footer-->
         <?php echo $footer ?>  
