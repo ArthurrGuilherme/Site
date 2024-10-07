@@ -109,17 +109,52 @@
             <section class="p-5">
                 <article>
                     <!--Texto-->
-                    <div>
-                        <span class="d-flex flex-column align-items-center text-center">
-                            <!--Titulo-->
-                                <h4 style="color: var(--roxo-vendex);">TIMELINE DO PROCESSO</h4>
-                            <!--Titulo-->
-                            <!--Texto-->
-                                <span class="text-light">
-                                    <p>Acompanhe em nossa timeline toda a sequência de implantação do processo.</p>
-                                </span>
-                            <!--Texto-->
-                        </span>
+                        <div>
+                            <span class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h4 style="color: var(--roxo-vendex);">TIMELINE DO PROCESSO</h4>
+                                <!--Titulo-->
+                                <!--Texto-->
+                                    <span class="text-light">
+                                        <p>Acompanhe em nossa timeline toda a sequência de implantação do processo.</p>
+                                    </span>
+                                <!--Texto-->
+                            </span>
+                        </div>
+                    <!--Texto-->
+                    <br>
+                    <!--Cards-->
+                    <div class="justify-content-evenly d-flex align-items-center">
+                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                            <img src="./img/timeline-implementacao.webp" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h4 style="color: var(--roxo-vendex);">1° Etapa – Implementação</h4>
+                                <spna class="text-light">
+                                    <p>A fase de implementação é a parte mais sensível e essencial,</p>
+                                    <p>pois nela é definido a escolha de um hub de integração, a</p>
+                                    <p>escolha de um software de ERP que fará a gestão empresarial</p>
+                                    <p>do negócio, a definição dos marketplaces nos quais o e-</p>
+                                    <p>commerce irá atuar, a definição dos produtos que serão</p>
+                                    <p>vendidos e os demais processos gerenciais, para um perfeito</p>
+                                    <p>entrelaçamento de dados.</p>
+                                </spna>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                            <img src="./img/timeline-integracao.webp" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h4 style="color: var(--roxo-vendex);">2° Etapa – Integração</h4>
+                                <spna class="text-light">
+                                    <p>Com a definição da implementação devidamente concluídos,</p>
+                                    <p>a parte seguinte é a integração de todos os sistemas para</p>
+                                    <p>ocorrer a perfeita integração do sistema de gestão</p>
+                                    <p>empresarial, o ERP com o HUB de integração responsável por</p>
+                                    <p>gerir toda a parte de vendas do negócio, facilitando e</p>
+                                    <p>agilizando a tomada de decisões e o perfeito controle de todo</p>
+                                    <p>o gerenciamento.</p>
+                                </spna>
+                            </div>
+                        </div>
                     </div>
                 </article>
             </section>
