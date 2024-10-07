@@ -273,6 +273,38 @@
                 <!--Diferenciais-->
             </section>
         <!--Beneficios-->
+        <!--Serviços-->
+            <section class="p-5">
+                <article>
+                    <!--Texto-->
+                        <div>
+                            <span style="color: var(--roxo-vendex);" class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h4 class="text-light">Conheça Agora</h4>
+                                    <h3>NOSSOS SERVIÇOS ADICIONAIS</h3>
+                                <!--Titulo-->
+                            </span>
+                        </div>
+                    <!--Texto-->
+                    <!--Cards-->
+                        <div id="SessaoCards" class="d-flex justify-content-between container-md p-4">
+                            <!--Consultoria-->
+                                <?php echo $markplaces01 ?>
+                            <!--Consultoria-->
+                            <!--Ads-->
+                                <?php echo $ads01 ?>
+                            <!--Ads-->
+                            <!--Automações-->
+                                <?php echo $automacoes01 ?>  
+                            <!--Automações-->
+                            <!--Trafego-->
+                                <?php echo $trafego01 ?>
+                            <!--Trafego-->    
+                        </div>
+                    <!--cards-->
+                </article>
+            </section>
+        <!--Serviços-->
     </main>
     <!--Footer-->
         <?php echo $footer ?>  

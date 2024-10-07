@@ -28,7 +28,7 @@
 <?php $headjs = '
    <!--Js-->
         <script src="./js/header.js"></script>
-        <script src="./js/scrollrevel.js"></script>
+        <script src="./js/scrollrevell.js"></script>
         <script src="./js/contato.js"></script>
     <!--Js-->
     <!--Js Api-->
