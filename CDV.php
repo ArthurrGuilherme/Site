@@ -125,7 +125,7 @@
                     <br>
                     <!--Cards-->
                     <div class="justify-content-evenly d-flex align-items-center">
-                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                        <div id="cards01" class="card" style="width: 35rem; text-align: center; background: #404040">
                             <img src="./img/timeline-implementacao.webp" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h4 style="color: var(--roxo-vendex);">1° Etapa – Implementação</h4>
@@ -140,7 +140,7 @@
                                 </spna>
                             </div>
                         </div>
-                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                        <div id="cards02" class="card" style="width: 35rem; text-align: center; background: #404040">
                             <img src="./img/timeline-integracao.webp" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h4 style="color: var(--roxo-vendex);">2° Etapa – Integração</h4>
@@ -160,7 +160,7 @@
                     <br>
                     <!--Cards-->
                     <div class="justify-content-evenly d-flex align-items-center">
-                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                        <div id="cards01" class="card" style="width: 35rem; text-align: center; background: #404040">
                             <img src="./img/timeline-cadastro.webp" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h4 style="color: var(--roxo-vendex);">3° Etapa – Cadastro</h4>
@@ -175,7 +175,7 @@
                                 </spna>
                             </div>
                         </div>
-                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                        <div id="cards02" class="card" style="width: 35rem; text-align: center; background: #404040">
                             <img src="./img/timeline-vendas.webp" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h4 style="color: var(--roxo-vendex);">4° Etapa – Vendas</h4>
