@@ -156,6 +156,42 @@
                             </div>
                         </div>
                     </div>
+                    <!--Cards-->
+                    <br>
+                    <!--Cards-->
+                    <div class="justify-content-evenly d-flex align-items-center">
+                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                            <img src="./img/timeline-cadastro.webp" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h4 style="color: var(--roxo-vendex);">3° Etapa – Cadastro</h4>
+                                <spna class="text-light">
+                                    <p>Esta é a parte onde os produtos são identificados com a sua</p>
+                                    <p>nomenclatura ou códigos, utilizando-se das ferramentas de</p>
+                                    <p>marketing digital, com a inserção de palavras-chave na</p>
+                                    <p>descrição dos produtos, visando a chamada dos mecanismos</p>
+                                    <p>de buscas e com a introdução de imagens de alta</p>
+                                    <p>performance, com o intuito de proporcionar ao usuário a</p>
+                                    <p>melhor experiência.</p>
+                                </spna>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 35rem; text-align: center; background: #404040">
+                            <img src="./img/timeline-vendas.webp" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h4 style="color: var(--roxo-vendex);">4° Etapa – Vendas</h4>
+                                <spna class="text-light">
+                                    <p>Esta fase é a finalização do processo, com a integração dos</p>
+                                    <p>produtos e as automações dos sistemas HUB e ERP</p>
+                                    <p>devidamente conectados, inicia-se o contato com o público</p>
+                                    <p>alvo, com as inserções de campanhas publicitárias, produtos</p>
+                                    <p>de qualidade com preços competitivos, uma gestão de</p>
+                                    <p>estoque eficiente, coordenação da logística de entrega, itens</p>
+                                    <p>que em conjunto vão diferenciar dos concorrentes.</p>
+                                </spna>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Cards-->
                 </article>
             </section>
         <!--Performance-->
