@@ -105,6 +105,25 @@
                 </article>
             </section>
         <!--Sobre Nós-->
+        <!--Performance-->
+            <section class="p-5">
+                <article>
+                    <!--Texto-->
+                    <div>
+                        <span class="d-flex flex-column align-items-center text-center">
+                            <!--Titulo-->
+                                <h4 style="color: var(--roxo-vendex);">TIMELINE DO PROCESSO</h4>
+                            <!--Titulo-->
+                            <!--Texto-->
+                                <span class="text-light">
+                                    <p>Acompanhe em nossa timeline toda a sequência de implantação do processo.</p>
+                                </span>
+                            <!--Texto-->
+                        </span>
+                    </div>
+                </article>
+            </section>
+        <!--Performance-->
     </main>
     <!--Footer-->
         <?php echo $footer ?>  
