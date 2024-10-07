@@ -105,7 +105,7 @@
                 </article>
             </section>
         <!--Sobre Nós-->
-        <!--Performance-->
+        <!--Processo-->
             <section class="p-5">
                 <article>
                     <!--Texto-->
@@ -194,7 +194,10 @@
                     <!--Cards-->
                 </article>
             </section>
-        <!--Performance-->
+        <!--Processo-->
+        <!--Contato-->
+            <?php echo $contato ?>
+        <!--Contato-->
     </main>
     <!--Footer-->
         <?php echo $footer ?>  
