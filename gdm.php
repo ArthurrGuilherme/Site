@@ -402,4 +402,13 @@
     <!--Footer-->
 </body>
     <?php echo $headjs ?>
+    <script>
+    document.querySelector("#Btnconato03").addEventListener("click", function (event) {
+    event.preventDefault();
+
+    scrollto("#formulario")
+
+    console.log("go to up")
+    })                 
+    </script>
 </html>

@@ -265,7 +265,7 @@
                                     <h3>ESTRUTURAÇÃO DE VENDAS</h3>
                                     <h3>DE E-COMMERCE</h3>
                                     <br>
-                                    <button class="Btn01">Contato</button>
+                                    <button id="btn05" class="Btn01">Contato</button>
                                 </span>
                             </div>
                         <!--Texto-->    
@@ -319,4 +319,20 @@
     <!--Footer-->
 </body>
     <?php echo $headjs ?>
+    <script>    
+        document.querySelector("#btn05").addEventListener("click", function (event) {
+        event.preventDefault();
+
+        scrollto(".formulario")
+
+        console.log("go to up")
+    })
+    document.querySelector("#Btnconato03").addEventListener("click", function (event) {
+    event.preventDefault();
+
+    scrollto("#formulario")
+
+    console.log("go to up")
+    })                 
+    </script>
 </html>

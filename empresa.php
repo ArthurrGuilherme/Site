@@ -149,7 +149,7 @@
                 </section>
             <!--Sobre Nós-->
             <!--Contato-->
-                <?php echo "$contato" ?>
+                <?php echo $contato ?>
             <!--Contato-->
             <!--Sobre Nós-->
                 <section>
@@ -326,4 +326,13 @@
     <!--Footer-->
 </body>
     <?php echo $headjs ?>
+    <script>
+    document.querySelector("#Btnconato03").addEventListener("click", function (event) {
+    event.preventDefault();
+
+    scrollto("#formulario")
+
+    console.log("go to up")
+    })                 
+    </script>
 </html>
