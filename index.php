@@ -174,14 +174,14 @@
                                     </span>
                                 <!--Legenda-->
                                 <br>
-                                <button class="Btn01">Contato</button>
+                                <button id="btn02" class="Btn01">Contato</button>
                             </span>    
                         <!--Texto-->
                     </article>
                 </section>
             <!--Empresa-->
             <!--Contato-->
-                <?php echo "$contato" ?>
+                <?php echo $contato ?>
             <!--Contato-->
             <!--Numeros-->
                 <section id="sessaocliente" style="background: url(./img/background-numeros.webp); background-size: cover;">
@@ -314,7 +314,7 @@
                                         <h3 >SOLUÇÕES PERSONALIZADAS</h3>
                                         <h3>E EXCELENTES RESULTADOS</h3>
                                         <br>
-                                        <button class="Btn01">Contato</button>
+                                        <button id="btn03" class="Btn01">Contato</button>
                                     </span>
                                 </div>
                             <!--Texto-->    

@@ -286,7 +286,7 @@
 <!--Contato-->
 <!--Formulario-->
     <?php $formulario = '
-        <section>
+        <section id="formulario">
                     <article>
                         <!--Texto-->
                         <div>
