@@ -116,7 +116,7 @@
                                                     <h5 class="card-title">ADS</h5>
                                                 </span>
                                                 <span>
-                                                    <a href="#" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
+                                                    <a href="./ads.php" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
                                                 </span>    
                                             </div>
                                         </div>
@@ -140,7 +140,7 @@
                                                         <p>simplificada</p>
                                                     </span>
                                                 <span>
-                                                    <a href="#" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
+                                                    <a href="./ads.php" id="LinkCards" style="background: var(--background-vendx); border: none;" class="btn btn-primary w-75">Saiba Mais</a>
                                                 </span>    
                                             </div>
                                         </div>

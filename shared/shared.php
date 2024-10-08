@@ -48,7 +48,7 @@
                                                                             <a class="dropdown-item" href="./CDV.php">Consultoria de Venda</a>
                                                                         </li>
                                                                         <li>
-                                                                            <a class="dropdown-item" href="#">Gestão de Ads</a>
+                                                                            <a class="dropdown-item" href="./ads.php">Gestão de Ads</a>
                                                                         </li>
                                                                         <li>
                                                                             <a class="dropdown-item" href="#">Automações</a>
