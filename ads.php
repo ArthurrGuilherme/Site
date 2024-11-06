@@ -263,7 +263,15 @@
                 </article>
             </section>
         <!--Serviços-->
-
+        <br>
+        <!--Redes Sociais-->
+            <?php echo $redes ?> 
+        <!--Redes Sociais-->
+        <br>
+        <!--Formulario-->
+            <?php echo $formulario ?>  
+        <!--Formulario-->
+        <br><br>
     </main>
     <!--Footer-->
         <?php echo $footer ?>  
