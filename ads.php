@@ -148,6 +148,14 @@
                 </article>
             </section>
         <!--Sobre Nós-->
+        <!--Parceiros-->
+            <section class="p-3">
+                <?php echo $Parceiros ?>
+            </section> 
+        <!--Parceiros-->
+        <!--Contato-->
+            <?php echo $contato ?>
+        <!--Contato-->
 
     </main>
     <!--Footer-->
