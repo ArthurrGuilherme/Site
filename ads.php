@@ -66,6 +66,88 @@
                 </article>
             </section>
         <!--Equipe-->
+        <!--Sobre Nós-->
+            <section>
+                <article class="container-md d-flex justify-content-evenly align-items-center">
+                    <!--Texto-->
+                        <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
+                            <!--Titulo-->
+                                <h4 class="text-light">Gestão de ADS para Marketplace</h4>
+                                <h3>Advertising</h3>
+                            <!--Titulo-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Nossa equipe será responsável pela gestão dos seus ads nos</p>
+                                    <p>principais canais de vendas do país!</p>
+                                </span>
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Quando se fala de campanha paga dentro dos Marketplaces,</p>
+                                    <p>seremos responsáveis por todas as ações desde a escolha do</p>
+                                    <p>produto, passando pela criação da campanha, otimização e até</p>
+                                    <p>sugestão de melhoria dos cadastros dos seus produtos.</p>
+                                </span>
+                            <!--Legenda-->
+                        </span>    
+                    <!--Texto-->
+                    <!--Img-->
+                        <img style="width: 30% !important; border-radius: 16px" class="w-25" id="Img" src="./img/imagem_2024-02-21_140501773.webp" alt="Imagem 01">
+                    <!--Img-->
+                </article>
+            </section>
+        <!--Sobre Nós-->
+        <!--Serviços-->
+            <section class="p-5">
+                <article class="container-md d-flex justify-content-evenly align-items-center">
+                    <!--Img-->
+                        <img style="width: 30% !important; border-radius: 16px" class="w-25" id="Img" src="./img/imagem_2024-02-21_140842550.webp" alt="Imagem 01">
+                    <!--Img-->
+                    <!--Texto-->
+                        <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
+                            <!--Titulo-->
+                                <h4 class="text-light">Gestão de ADS para Marketplace</h4>
+                                <h3>Redução de ACOS</h3>
+                            <!--Titulo-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Aqui na Vendex sabemos como é importante reduzir os custos</p>
+                                    <p>contínuos, por isso trabalharemos para reduzir todos os custos</p>
+                                    <p>inúteis rapidamente. Desde modo, faremos com que nosso</p>
+                                    <p>serviço se pague facilmente.</p>
+                                </span>
+                            <!--Legenda-->
+                        </span>    
+                    <!--Texto-->
+                </article>
+            </section>
+        <!--Serviços-->
+        <!--Sobre Nós-->
+            <section>
+                <article class="container-md d-flex justify-content-evenly align-items-center">
+                    <!--Texto-->
+                        <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
+                            <!--Titulo-->
+                                <h4 class="text-light">Gestão de ADS para Marketplace</h4>
+                                <h3>Aumento de Faturamento</h3>
+                            <!--Titulo-->
+                            <!--Legenda-->
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>Além de organizar a casa, os principais motivos da gestão de ads</p>
+                                    <p>são:</p>
+                                </span>
+                                <span style="font-size: 0.8rem;" class="text-light">
+                                    <p>* <strong style="color: var(--rosa-vendex);">Alavancar</strong> novos produtos e anúncios</p>
+                                    <p>* <strong style="color: var(--rosa-vendex);">Ranquear</strong> produtos e anúncios já existentes</p>
+                                    <p>* E com isso <strong style="color: var(--rosa-vendex);">faturar</strong> mais!</p>
+                                </span>
+                            <!--Legenda-->
+                        </span>    
+                    <!--Texto-->
+                    <!--Img-->
+                        <img style="width: 30% !important; border-radius: 16px" class="w-25" id="Img" src="./img/imagem_2024-02-21_141113804.webp" alt="Imagem 01">
+                    <!--Img-->
+                </article>
+            </section>
+        <!--Sobre Nós-->
 
     </main>
     <!--Footer-->
