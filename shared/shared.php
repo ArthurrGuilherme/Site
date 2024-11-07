@@ -51,7 +51,7 @@
                                                                             <a class="dropdown-item" href="./ads.php">Gestão de Ads</a>
                                                                         </li>
                                                                         <li>
-                                                                            <a class="dropdown-item" href="#">Automações</a>
+                                                                            <a class="dropdown-item" href="./auto.php">Automações</a>
                                                                         </li>
                                                                         <li>
                                                                             <a class="dropdown-item" href="#">Tráfego Pago</a>
