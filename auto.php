@@ -21,7 +21,7 @@
 </head>
 <body>
     <!--Container principal das paginas estaticas-->
-        <section  style="background: url(./img/bn-empresa.webp); background-size: cover">
+        <section  style="background: url(./img/bn-automacao.png); background-size: cover">
             <!--Header Primario-->
                 <?php echo $headerprincial ?>
             <!--Header Primario-->
@@ -33,11 +33,10 @@
                     <!--Estrutura texto-->
                         <article class="d-flex flex-column">
                             <!--Titulo-->
-                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Gestão de Marketplace</h1>
+                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Automações</h1>
                             <!--Titulo-->
                             <!--Texto-->
-                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Descubra o que nossos especialistas podem</p>
-                                <p style="font-weight: 900; font-size: 1.1rem">fazer por sua empresa!</p></strong>
+                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Agilidade, controle e precisão de informações.</p>
                             <!--Texto-->
                         </article>
                     <!--Estrutura texto-->
