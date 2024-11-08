@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Pagina sobre a empresa">
-    <title>Automações - Vendex</title>
+    <title>Tráfego Pago - Vendex</title>
     <!--Css/js principais-->
         <?php echo $headcss ?>
     <!--Css/js principais-->
@@ -21,7 +21,7 @@
 </head>
 <body>
     <!--Container principal das paginas estaticas-->
-        <section  style="background: url(./img/bn-automacao.png); background-size: cover">
+        <section  style="background: url(./img/bn-trafegopago.webp); background-size: cover">
             <!--Header Primario-->
                 <?php echo $headerprincial ?>
             <!--Header Primario-->
@@ -33,10 +33,10 @@
                     <!--Estrutura texto-->
                         <article class="d-flex flex-column">
                             <!--Titulo-->
-                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Automações</h1>
+                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Tráfego Pago</h1>
                             <!--Titulo-->
                             <!--Texto-->
-                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Agilidade, controle e precisão de informações.</p>
+                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Cuidamos da gestão de tráfego pago do seu e-commerce.</p></strong>
                             <!--Texto-->
                         </article>
                     <!--Estrutura texto-->
@@ -52,13 +52,12 @@
                     <div>
                         <span class="d-flex flex-column align-items-center text-center">
                             <!--Titulo-->
-                                <h4 class="text-light">A Tecnologia Ampliando o seu Negócio</h4>
+                                <h4 class="text-light">Gestão Completa de Tráfego Pago</h4>
                             <!--Titulo-->
                             <!--Texto-->
                                 <span class="text-light">
-                                    <p>A tecnologia é um grande aliado no desenvolvimento e aumento da produtividade do e-commerce, permitindo a</p>
-                                    <p>integração de sistemas, o monitoramento de dados em tempo real, otimizando tempo e recursos, reduzindo</p>
-                                    <p>custos e ganhos em rentabilidade.</p>
+                                    <p>Temos uma equipe especializada para cuidar de sua Gestão de Tráfego Pago do seu e-commerce, nas diversas plataformas dos</p>
+                                    <p>marketplaces, ajustando-as de acordo com suas diretrizes.</p>
                                 </span>
                             <!--Texto-->
                         </span>
@@ -72,31 +71,25 @@
                     <!--Texto-->
                         <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
                             <!--Titulo-->
-                                <h4 class="text-light">Automações</h4>
+                                <h4 class="text-light">Tráfego Pago</h4>
                                 <span>
-                                    <h3>PLANILHA DE PRECIFICAÇÃO</h3>
-                                    <h3>CONECTADAS AO ERP</h3>
+                                    <h3>FAZEMOS TODA A GESTÃO DE</h3>
+                                    <h3>TRÁFEGO PAGO PARA E-COMMERCE</h3>
                                 </span>
                             <!--Titulo-->
                             <!--Legenda-->
-                                <span style="font-size: 0.8rem;" class="text-light">
-                                    <p>A Planilha de Precificação integrada ao software de ERP</p>
-                                    <p>permite a precificação correta dos produtos, conforme as regras</p>
-                                    <p>de cada plataforma de Marketplaces, garantindo a sua</p>
-                                    <p>lucratividade e competitividade junto aos seus concorrentes.</p>
-                                </span>
-                                <span style="font-size: 0.8rem;" class="text-light">
-                                    <p>Além disso, permite a inserção e atualização de informações,</p>
-                                    <p>ajustando os preços automaticamente, redução de custos,</p>
-                                    <p>redução de riscos e erros e fluidez no acompanhamento de</p>
-                                    <p>mercado, de forma rápida e assertiva, com emissão de</p>
-                                    <p>relatórios para verificação e tomadas de decisão.</p>
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p>O tráfego pago é uma estratégia de marketing, proveniente de</p>
+                                    <p>anúncios em redes sociais, mecanismos de buscas, aplicativos e</p>
+                                    <p>até mesmo de outros sites. A gestão de tráfego pago para e-</p>
+                                    <p>commerce tem como principal objetivo atrair novos clientes e</p>
+                                    <p>conduzi-los ao fechamento da venda.</p>
                                 </span>
                             <!--Legenda-->
                         </span>    
                     <!--Texto-->
                     <!--Img-->
-                        <img class="w-25" id="Img" src="./img/automacoes-erp.webp" alt="Imagem 01">
+                        <img class="w-25" id="Img" src="./img/gestao-trafegopago.webp" alt="Imagem 01">
                     <!--Img-->
                 </article>
             </section>
@@ -105,31 +98,29 @@
             <section class="p-5">
                 <article class="container-md d-flex justify-content-evenly align-items-center">
                     <!--Img-->
-                        <img class="w-25" id="Img" src="./img/automacoes-estoque.webp" alt="Imagem 01">
+                        <img class="w-25" id="Img" src="./img/facebook-google-trafegopago.webp" alt="Imagem 01">
                     <!--Img-->
                     <!--Texto-->
                         <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
                             <!--Titulo-->
-                                <h4 class="text-light">Automações</h4>
+                                <h4 class="text-light">Tráfego Pago</h4>
                                 <span>
-                                    <h3>CONTROLE DE ESTOQUE</h3>
-                                    <h3>CONECTADOS AO ERP</h3>
+                                    <h3>FACEBOOK E GOOGLE</h3>
                                 </span>
                             <!--Titulo-->
                             <!--Legenda-->
-                                <span style="font-size: 0.8rem;" class="text-light">
-                                    <p>O controle de estoque é um dos principais setores de uma</p>
-                                    <p>organização, sendo essencial uma gestão eficiente para evitar</p>
-                                    <p>perdas financeiras e aumentar a eficiência operacional.</p>
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p>Uma das formas de conseguir resultados mais rápidos é por</p>
+                                    <p>meio da Gestão do tráfego pago, sendo os mais utilizados o</p>
+                                    <p>Facebook/ADS e o Google/ADS, através das redes sociais.</p>
                                 </span>
                             <!--Legenda-->
                             <!--Legenda-->
-                                <span style="font-size: 0.8rem;" class="text-light">
-                                    <p>O controle de estoque conectado ao ERP organiza de forma</p>
-                                    <p>prática e com precisão os níveis de estoque, gerencia o fluxo de</p>
-                                    <p>entrada e saídas de produtos, controla custos e emite relatórios</p>
-                                    <p>com rapidez e assertividade, gerando economia de custos e</p>
-                                    <p>tempo, maximizando a tomada de decisões.</p>
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p>É uma forma de gerar maior engajamento é por meio de</p>
+                                    <p>anúncios para os usuários terem contato com a sua marca e</p>
+                                    <p>visitem o seu site ou compartilhar em suas redes sociais,</p>
+                                    <p>ampliando a sua visualização.</p>
                                 </span>
                             <!--Legenda-->
                         </span>    
@@ -174,6 +165,7 @@
                 </article>
             </section>
         <!--Sobre Nós-->
+        <section class="p-5"></section>
         <!--Contato-->
             <?php echo $contato ?>
         <!--Contato-->
