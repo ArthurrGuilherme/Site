@@ -134,38 +134,81 @@
                     <!--Texto-->
                         <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
                             <!--Titulo-->
-                                <h4 class="text-light">Automações</h4>
+                                <h4 class="text-light">Tráfego Pago</h4>
                                 <span>
-                                    <h3>DRE DE FECHAMENTO</h3>
-                                    <h3>FINANCEIRO CONECTADOS AO</h3>
-                                    <h3>ERP</h3>
+                                    <h3>CRM</h3>
                                 </span>
                             <!--Titulo-->
                             <!--Legenda-->
-                                <span style="font-size: 0.8rem;" class="text-light">
-                                    <p>O DRE — Demonstração de Resultado do Exercício, é um</p>
-                                    <p>importante documento contábil utilizado para gerenciar todas</p>
-                                    <p>as operações financeiras realizadas durante um determinado</p>
-                                    <p>período, que mostra de forma clara e precisa a situação</p>
-                                    <p>financeira de uma empresa.</p>
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p>Utilizar a ferramenta de CRM para e-commerce é essencial para</p>
+                                    <p>estabelecer uma conexão com os seus clientes, aumentar a</p>
+                                    <p>produtividade e manter a satisfação geral em níveis de</p>
+                                    <p>excelência.</p>
                                 </span>
-                                <span style="font-size: 0.8rem;" class="text-light">
-                                    <p>Com este documento é possível identificar a lucratividade do</p>
-                                    <p>período e a tomada de decisões para identificar as correções</p>
-                                    <p>que devem ser efetuadas, para garantir a saúde financeira de</p>
-                                    <p>seu negócio, em condições satisfatórias, em todas as</p>
-                                    <p>plataformas dos marketplaces.</p>
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p>Além disso, a utilização de um CRM permite que você tenha</p>
+                                    <p>uma gestão eficiente de relacionamento com o cliente, com</p>
+                                    <p>base em dados que permite oferecer um atendimento</p>
+                                    <p>personalizado e uma experiência aprimorada.</p>
+                                </span>
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p>O CRM para e-commerce é fundamental para a fidelização de</p>
+                                    <p>seu cliente, independente de seu segmento de atuação.</p>
                                 </span>
                             <!--Legenda-->
                         </span>    
                     <!--Texto-->
                     <!--Img-->
-                        <img class="w-25" id="Img" src="./img/automacoes-fichamento.webp" alt="Imagem 01">
+                        <img class="w-25" id="Img" src="./img/crm-trafego-pago.webp" alt="Imagem 01">
                     <!--Img-->
                 </article>
             </section>
         <!--Sobre Nós-->
-        <section class="p-5"></section>
+        <!--Serviços-->
+            <section class="p-5">
+                <article class="container-md d-flex justify-content-evenly align-items-center">
+                    <!--Img-->
+                        <img class="w-25" id="Img" src="./img/estrategias-trafegopago.webp" alt="Imagem 01">
+                    <!--Img-->
+                    <!--Texto-->
+                        <span class="d-flex flex-column" id="SessaoTexto" style="color: var(--roxo-vendex); gap: 0.6rem">
+                            <!--Titulo-->
+                                <h4 class="text-light">Tráfego Pago</h4>
+                                <span>
+                                    <h3>ESTRATÉGIAS</h3>
+                                </span>
+                            <!--Titulo-->
+                            <!--Legenda-->
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p><strong style="color: var(--rosa-vendex);">Estratégias para datas comemorativas:</strong> as datas comemorativas</p>
+                                    <p>são excelentes oportunidades para aumentar o ticket médio de</p>
+                                    <p>vendas, impulsionando suas vendas e para tanto é necessário</p>
+                                    <p>organizar um calendário anual dos eventos significativos.</p>
+                                </span>
+                            <!--Legenda-->
+                            <!--Legenda-->
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p><strong style="color: var(--rosa-vendex);">Estratégias de curva ABC:</strong> a estratégia de curva ABC de estoque</p>
+                                    <p>é uma metodologia que atribui graus de importância aos</p>
+                                    <p>produtos de estoque, dividindo-os em três categorias A, B e C</p>
+                                    <p>de acordo com sua importância para o faturamento.</p>
+                                </span>
+                            <!--Legenda-->
+                            <!--Legenda-->
+                                <span style="font-size: 1rem;" class="text-light">
+                                    <p><strong style="color: var(--rosa-vendex);">Estratégias de promoções:</strong> a aplicação da estratégia de</p>
+                                    <p>promoções no seu e-commerce, traz diversos benefícios, como</p>
+                                    <p>a ampliação de sua marca, captação de novos clientes e, claro,</p>
+                                    <p>no aumento de suas vendas;</p>
+                                </span>
+                            <!--Legenda-->
+                        </span>    
+                    <!--Texto-->
+                </article>
+            </section>
+        <!--Serviços-->
+            <section class="p-4"></section>
         <!--Contato-->
             <?php echo $contato ?>
         <!--Contato-->
