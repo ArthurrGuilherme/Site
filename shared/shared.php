@@ -54,7 +54,7 @@
                                                                             <a class="dropdown-item" href="./auto.php">Automações</a>
                                                                         </li>
                                                                         <li>
-                                                                            <a class="dropdown-item" href="#">Tráfego Pago</a>
+                                                                            <a class="dropdown-item" href="./Tp.php">Tráfego Pago</a>
                                                                         </li>
                                                                     </ul>
                                                                 <!--Menu Drop-->
