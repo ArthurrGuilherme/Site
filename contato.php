@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Pagina sobre a empresa">
-    <title>Tráfego Pago - Vendex</title>
+    <title>Contato - Vendex</title>
     <!--Css/js principais-->
         <?php echo $headcss ?>
     <!--Css/js principais-->
@@ -21,7 +21,7 @@
 </head>
 <body>
     <!--Container principal das paginas estaticas-->
-        <section  style="background: url(./img/bn-trafegopago.webp); background-size: cover">
+        <section  style="background: url(./img/bg-contato.webp); background-size: cover">
             <!--Header Primario-->
                 <?php echo $headerprincial ?>
             <!--Header Primario-->
@@ -33,10 +33,10 @@
                     <!--Estrutura texto-->
                         <article class="d-flex flex-column">
                             <!--Titulo-->
-                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Tráfego Pago</h1>
+                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Contato</h1>
                             <!--Titulo-->
                             <!--Texto-->
-                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Cuidamos da gestão de tráfego pago do seu e-commerce.</p></strong>
+                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Consulte-nos e tire suas dúvidas.</p></strong>
                             <!--Texto-->
                         </article>
                     <!--Estrutura texto-->
