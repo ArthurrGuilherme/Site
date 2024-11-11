@@ -83,7 +83,7 @@
                                     <span class="CardTexto">
                                         <h5 class="card-title">E-MAIL</h5>
                                     </span>
-                                    <span>
+                                    <span style="font-size: .8rem;">
                                         <a href="mahilo:contato@vendexcompany.com.br" class="text-light" >contato@vendexcompany.com.br</a>
                                     </span>
                                     </div>
@@ -104,7 +104,7 @@
                                     <span class="CardTexto">
                                         <h5 class="card-title">Telefone</h5>
                                     </span>
-                                    <span>
+                                    <span style="font-size: .8rem;">
                                         <a href=""  class="text-light">(11) 93011-5834</a>
                                     </span>
                                 </div>
@@ -124,7 +124,7 @@
                                     <span class="CardTexto">
                                         <h5 class="card-title">Horário</h5>
                                     </span>
-                                    <span>
+                                    <span style="font-size: .8rem;">
                                         <p class="text-light">Seg.-Sex: 8:00 – 18:00</p>
                                         <p class="text-light">Sáb: 8:00 – 13:00</p>
                                     </span>
@@ -143,9 +143,9 @@
                                     <span class="CardTexto">
                                         <h5 class="card-title">Endereço</h5>
                                     </span>
-                                    <span>
-                                        <p class="text-light">Seg.-Sex: 8:00 – 18:00</p>
-                                        <p class="text-light">Sáb: 8:00 – 13:00</p>
+                                    <span style="font-size: .7rem;">
+                                        <p class="text-light">R. Benedito Ferreira da Fonseca, 57 – Jardim</p>
+                                        <p class="text-light">Conceição, Campinas – SP, 13091-030</p>
                                     </span>
                                 </div>
                                 <br>
