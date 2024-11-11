@@ -111,7 +111,7 @@
                                 <br>
                            </div>
                         <!--Ads-->
-                            <!--Automações-->
+                        <!--Automações-->
                             <div id="Cards09" class="card bg-black d-flex justify-content-center align-items-center text-center w-50">
                                 <br><br> 
                                 <svg xmlns="http://www.w3.org/2000/svg" width="108.152" height="108.152" viewBox="0 0 108.152 108.152">
@@ -131,7 +131,26 @@
                                 </div>
                                 <br>
                             </div> 
-                            <!--Automações--> 
+                        <!--Automações--> 
+                        <!--Automações-->
+                            <div id="Cards09" class="card bg-black d-flex justify-content-center align-items-center text-center w-50">
+                                <br><br> 
+                                <svg class="Mpascards" xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 24 24" style="fill: #b56afc;transform: ;msFilter;">
+                                    <path d="m12 17 1-2V9.858c1.721-.447 3-2 3-3.858 0-2.206-1.794-4-4-4S8 3.794 8 6c0 1.858 1.279 3.411 3 3.858V15l1 2zM10 6c0-1.103.897-2 2-2s2 .897 2 2-.897 2-2 2-2-.897-2-2z"></path>
+                                    <path d="m16.267 10.563-.533 1.928C18.325 13.207 20 14.584 20 16c0 1.892-3.285 4-8 4s-8-2.108-8-4c0-1.416 1.675-2.793 4.267-3.51l-.533-1.928C4.197 11.54 2 13.623 2 16c0 3.364 4.393 6 10 6s10-2.636 10-6c0-2.377-2.197-4.46-5.733-5.437z"></path>
+                                </svg>
+                                <div class="card-body">
+                                    <span class="CardTexto">
+                                        <h5 class="card-title">Endereço</h5>
+                                    </span>
+                                    <span>
+                                        <p class="text-light">Seg.-Sex: 8:00 – 18:00</p>
+                                        <p class="text-light">Sáb: 8:00 – 13:00</p>
+                                    </span>
+                                </div>
+                                <br>
+                            </div> 
+                        <!--Automações--> 
                         </div>
                     <!--cards-->
                 </article>
