@@ -48,9 +48,9 @@
                     <article>
                         <!--Texto-->
                         <div>
-                            <span class="d-flex flex-column align-items-center">
+                            <span class="d-flex flex-column align-items-center text-center">
                                 <!--Titulo-->
-                                    <h4 class="text-light text-center">Junte-se à nossa equipe</h4>
+                                    <h4 class="text-light">Junte-se à nossa equipe</h4>
                                 <!--Titulo-->
                                 <!--Texto-->
                                     <span class="text-light">
@@ -61,8 +61,9 @@
                                 <br>
                                 <!--Texto-->
                                     <span class="text-light">
-                                        <p>Incentivamos uma mentalidade centrada no cliente, acelerada e focada na execução através de dados. Tudo isso</p>
-                                        <p>misturado com muita tecnologia e um ambiente muito agradável de se trabalhar...</p>
+                                        <p>Se você deseja se juntar à revolução da Gestão de Marketplaces e impactar a vida de milhões de pessoas,</p>
+                                        <p>convidamos você a ser uma parte fundamental da transformação de pequenas e médias empresas que estão</p>
+                                        <p>começando no Brasil.</p>
                                     </span>
                                 <!--Texto-->
                             </span>
