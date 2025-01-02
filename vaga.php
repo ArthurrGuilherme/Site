@@ -82,8 +82,8 @@
                                 <!--Titulo-->
                                 <!--Texto-->
                                     <span class="text-light">
-                                        <p>Incentivamos uma mentalidade centrada no cliente, acelerada e focada na execução através de dados. Tudo isso</p>
-                                        <p>misturado com muita tecnologia e um ambiente muito agradável de se trabalhar...</p>
+                                        <p>Venha trabalhar com a gente e faça parte de uma equipe incrível que transforma desafios em oportunidades todos os dias!</p>
+                                        <p>Envie um email para <a href="mailto:gabriel.castro@vendexcompany.com.br" target="_blank">gabriel.castro@vendexcompany.com.br</a> com o seu curriculo e o nome da vaga</p>
                                     </span>
                                 <!--Texto-->
                             </span>
