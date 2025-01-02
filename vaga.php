@@ -43,7 +43,26 @@
     <!--Container principal das paginas estaticas-->  
     <!--Conteudo principal-->
         <main>
-
+            <!--Equipe-->
+                <section class="p-5">
+                    <article>
+                        <!--Texto-->
+                        <div>
+                            <span class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h4 class="text-light">Uma equipe com experiência e certificação</h4>
+                                <!--Titulo-->
+                                <!--Texto-->
+                                    <span class="text-light">
+                                        <p>Nosso quadro colaborativo é formado por profissionais especializados e experientes em e-commerce, com foco</p>
+                                        <p>nos principais marketplaces do país e todos com certificação.</p>
+                                    </span>
+                                <!--Texto-->
+                            </span>
+                        </div>
+                    </article>
+                </section>
+            <!--Equipe-->
         </main>
     <!--Conteudo principal-->
     <!--Footer-->
