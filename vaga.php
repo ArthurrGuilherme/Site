@@ -71,6 +71,27 @@
                     </article>
                 </section>
             <!--Equipe-->
+            <!--Equipe-->
+                <section>
+                    <article>
+                        <!--Texto-->
+                        <div>
+                            <span class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h4 class="text-light"><strong style="color: var(--roxo-vendex)">Vagas Disponíveis</strong></h4>
+                                <!--Titulo-->
+                                <!--Texto-->
+                                    <span class="text-light">
+                                        <p>Incentivamos uma mentalidade centrada no cliente, acelerada e focada na execução através de dados. Tudo isso</p>
+                                        <p>misturado com muita tecnologia e um ambiente muito agradável de se trabalhar...</p>
+                                    </span>
+                                <!--Texto-->
+                            </span>
+                        </div>
+                    </article>
+                </section>
+                <br><br>
+            <!--Equipe-->
         </main>
     <!--Conteudo principal-->
     <!--Footer-->
