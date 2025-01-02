@@ -33,12 +33,8 @@
                     <!--Estrutura texto-->
                         <article class="d-flex flex-column">
                             <!--Titulo-->
-                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Nossa Empresa</h1>
+                                <h1 style="padding-bottom: 2rem; font-weight: 700;">Venha trabalhar com a gente!</h1>
                             <!--Titulo-->
-                            <!--Texto-->
-                                <strong ><p style="font-weight: 900; font-size: 1.1rem">Nossa especialidade é aumentar as vendas do seu e-commerce</p>
-                                <p style="font-weight: 900; font-size: 1.1rem">através das maiores plataformas dos marketplaces do país</p></strong>
-                            <!--Texto-->
                         </article>
                     <!--Estrutura texto-->
                 </section>
