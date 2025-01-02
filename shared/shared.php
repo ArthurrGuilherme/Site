@@ -70,7 +70,7 @@
                                                                 <a class="nav-link" href="./contato.php">Contato</a>
                                                             </li>
                                                             <li class="nav-item">
-                                                                <a class="nav-link" href="#">Vagas</a>
+                                                                <a class="nav-link" href="./vaga.php">Vagas</a>
                                                             </li>
                                                             <li class="nav-item">
                                                                 <a class="nav-link" href="#">Área do Cliente</a>
