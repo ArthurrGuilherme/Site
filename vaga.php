@@ -48,14 +48,21 @@
                     <article>
                         <!--Texto-->
                         <div>
-                            <span class="d-flex flex-column align-items-center text-center">
+                            <span class="d-flex flex-column align-items-center">
                                 <!--Titulo-->
-                                    <h4 class="text-light">Uma equipe com experiência e certificação</h4>
+                                    <h4 class="text-light text-center">Junte-se à nossa equipe</h4>
                                 <!--Titulo-->
                                 <!--Texto-->
                                     <span class="text-light">
-                                        <p>Nosso quadro colaborativo é formado por profissionais especializados e experientes em e-commerce, com foco</p>
-                                        <p>nos principais marketplaces do país e todos com certificação.</p>
+                                        <p>Incentivamos uma mentalidade centrada no cliente, acelerada e focada na execução através de dados. Tudo isso</p>
+                                        <p>misturado com muita tecnologia e um ambiente muito agradável de se trabalhar...</p>
+                                    </span>
+                                <!--Texto-->
+                                <br>
+                                <!--Texto-->
+                                    <span class="text-light">
+                                        <p>Incentivamos uma mentalidade centrada no cliente, acelerada e focada na execução através de dados. Tudo isso</p>
+                                        <p>misturado com muita tecnologia e um ambiente muito agradável de se trabalhar...</p>
                                     </span>
                                 <!--Texto-->
                             </span>
