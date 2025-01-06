@@ -72,7 +72,7 @@
                 </section>
             <!--Equipe-->
             <!--Equipe-->
-                <section>
+                <section class="container-md">
                     <article>
                         <!--Texto-->
                         <div>
@@ -87,6 +87,19 @@
                                     </span>
                                 <!--Texto-->
                             </span>
+                        </div>
+                        <br>
+                        <!--texto-->
+                        <div class="d-flex align-items-center">
+                            <details>
+                                <summary class="d-flex align-items-center justify-content-center" style="color: var(--rosa-vendex)">Detalhes das Vagas <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" style="fill: rgb(196, 19, 187);transform: ;msFilter:;"><path d="M16.293 9.293 12 13.586 7.707 9.293l-1.414 1.414L12 16.414l5.707-5.707z"></path></svg></summary>
+                                <ul class="text-light">
+                                    <li>Desenvolvedor Full Stack</li>
+                                    <li>Desenvolvedor Front End</li>
+                                    <li>Desenvolvedor Back End</li>
+                                    <li>Analista de Dados</li>
+                                <ul></ul>
+                            </details>
                         </div>
                     </article>
                 </section>
