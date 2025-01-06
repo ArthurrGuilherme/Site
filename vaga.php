@@ -78,7 +78,7 @@
                         <div>
                             <span class="d-flex flex-column align-items-center text-center">
                                 <!--Titulo-->
-                                    <h4 class="text-light"><strong style="color: var(--roxo-vendex)">Vagas Disponíveis</strong></h4>
+                                    <h4 class="text-light"><strong style="color: var(--rosa-vendex)">Vagas Disponíveis</strong></h4>
                                 <!--Titulo-->
                                 <!--Texto-->
                                     <span class="text-light">
