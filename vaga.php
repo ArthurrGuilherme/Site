@@ -103,11 +103,27 @@
                                         <li style="font-size: 0.8rem;">* Gerenciar relacionamentos com marketplaces e parceiros, negociando posições de destaque e condições comerciais favoráveis</li>
                                         <li style="font-size: 0.8rem;">* Monitorar e analisar o desempenho dos produtos nos marketplaces, identificando oportunidades de otimização.</li>
                                         <li style="font-size: 0.8rem;">* Trabalhar em estreita colaboração com as equipes de marketing, vendas e suporte ao cliente para garantir uma experiência de compra excepcional.</li>
-                                        <li style="font-size: 0.8rem;">* Trabalhar em estreita colaboração com as equipes de marketing, vendas e suporte ao cliente para garantir uma experiência de compra excepcional.</li>
+                                        <li style="font-size: 0.8rem;">* Ficar atualizado com as tendências do mercado e novas tecnologias para manter a competitividade da empresa.</li>
                                     <br>
-                                    <li>Desenvolvedor Back End</li>
-                                    <li>Analista de Dados</li>
-                                <ul></ul>
+                                    <br>
+                                    <p style="font-size: 0.9rem;">Requisitos:</p>
+                                    <br>
+                                        <li style="font-size: 0.8rem;">* Experiência comprovada em gestão de marketplace e e-commerce.</li>
+                                        <li style="font-size: 0.8rem;">* Excelentes habilidades de comunicação e negociação.</li>
+                                        <li style="font-size: 0.8rem;">* Forte capacidade analítica e experiência com ferramentas de análise de dados.</li>
+                                        <li style="font-size: 0.8rem;">* Conhecimento profundo das melhores práticas de SEO e marketing digital.</li>
+                                        <li style="font-size: 0.8rem;">* Habilidade para trabalhar em um ambiente de equipe rápido e mutável.</li>
+                                    <br>
+                                    <br>
+                                    <p style="font-size: 0.9rem;">Requisitos:</p>
+                                    <br>
+                                        <li style="font-size: 0.8rem;">* Experiência comprovada em gestão de marketplace e e-commerce.</li>
+                                        <li style="font-size: 0.8rem;">* Excelentes habilidades de comunicação e negociação.</li>
+                                        <li style="font-size: 0.8rem;">* Forte capacidade analítica e experiência com ferramentas de análise de dados.</li>
+                                        <li style="font-size: 0.8rem;">* Conhecimento profundo das melhores práticas de SEO e marketing digital.</li>
+                                        <li style="font-size: 0.8rem;">* Habilidade para trabalhar em um ambiente de equipe rápido e mutável.</li>
+                                    <br>
+                                </ul>    
                             </details>
                         </div>
                     </article>
