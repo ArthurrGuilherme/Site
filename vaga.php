@@ -92,10 +92,19 @@
                         <!--texto-->
                         <div class="d-flex align-items-center">
                             <details>
-                                <summary class="d-flex align-items-center justify-content-center" style="color: var(--rosa-vendex)">Detalhes das Vagas <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" style="fill: rgb(196, 19, 187);transform: ;msFilter:;"><path d="M16.293 9.293 12 13.586 7.707 9.293l-1.414 1.414L12 16.414l5.707-5.707z"></path></svg></summary>
+                                <summary class="d-flex align-items-center:" style="color: var(--rosa-vendex)">GESTOR DE MARKETPLACE</summary>
                                 <ul class="text-light">
-                                    <li>Desenvolvedor Full Stack</li>
-                                    <li>Desenvolvedor Front End</li>
+                                    <br>
+                                    <p style="font-size: 0.9rem;">Estamos buscando um Gestor de Marketplace dinâmico e orientado a resultados para se juntar à nossa equipe. O candidato ideal será responsável por gerenciar e otimizar a presença dos produtos dos nossos parceiros em diversos marketplaces, garantindo visibilidade máxima e vendas incrementadas.</p>
+                                    <br>
+                                    <p style="font-size: 0.9rem;">Responsabilidades:</p>
+                                    <br>
+                                        <li style="font-size: 0.8rem;">* Desenvolver e implementar estratégias de marketplace para maximizar a visibilidade e as vendas dos produtos.</li>
+                                        <li style="font-size: 0.8rem;">* Gerenciar relacionamentos com marketplaces e parceiros, negociando posições de destaque e condições comerciais favoráveis</li>
+                                        <li style="font-size: 0.8rem;">* Monitorar e analisar o desempenho dos produtos nos marketplaces, identificando oportunidades de otimização.</li>
+                                        <li style="font-size: 0.8rem;">* Trabalhar em estreita colaboração com as equipes de marketing, vendas e suporte ao cliente para garantir uma experiência de compra excepcional.</li>
+                                        <li style="font-size: 0.8rem;">* Trabalhar em estreita colaboração com as equipes de marketing, vendas e suporte ao cliente para garantir uma experiência de compra excepcional.</li>
+                                    <br>
                                     <li>Desenvolvedor Back End</li>
                                     <li>Analista de Dados</li>
                                 <ul></ul>
