@@ -115,13 +115,12 @@
                                         <li style="font-size: 0.8rem;">* Habilidade para trabalhar em um ambiente de equipe rápido e mutável.</li>
                                     <br>
                                     <br>
-                                    <p style="font-size: 0.9rem;">Requisitos:</p>
+                                    <p style="font-size: 0.9rem;">Oferecemos:</p>
                                     <br>
-                                        <li style="font-size: 0.8rem;">* Experiência comprovada em gestão de marketplace e e-commerce.</li>
-                                        <li style="font-size: 0.8rem;">* Excelentes habilidades de comunicação e negociação.</li>
-                                        <li style="font-size: 0.8rem;">* Forte capacidade analítica e experiência com ferramentas de análise de dados.</li>
-                                        <li style="font-size: 0.8rem;">* Conhecimento profundo das melhores práticas de SEO e marketing digital.</li>
-                                        <li style="font-size: 0.8rem;">* Habilidade para trabalhar em um ambiente de equipe rápido e mutável.</li>
+                                        <li style="font-size: 0.8rem;">* Oportunidade de trabalhar em uma empresa inovadora e em rápido crescimento.</li>
+                                        <li style="font-size: 0.8rem;">* Ambiente de trabalho flexível e inclusivo.</li>
+                                        <li style="font-size: 0.8rem;">* Pacote competitivo de remuneração</li>
+                                        <li style="font-size: 0.8rem;">* Oportunidades de desenvolvimento profissional e crescimento na carreira.</li>
                                     <br>
                                 </ul>    
                             </details>
