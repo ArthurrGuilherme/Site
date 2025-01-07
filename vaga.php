@@ -133,30 +133,36 @@
                         </div>
 
                         <div class="container mt-5">
-                        <h1>Lista de Vagas</h1>
                         <a href="./sql/vagasbd.php" class="btn btn-success mb-3">Adicionar Vaga</a>
-                        <table class="table table-bordered">
-                            <thead>
-                                <tr>
-                                    <th>ID</th>
-                                    <th>Título</th>
-                                    <th>Ações</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <?php foreach ($vagas as $vaga): ?>
-                                <tr>
-                                    <td><?= $vaga['descricao']; ?></td>
-                                    <td><?= $vaga['titulo']; ?></td>
-                                    <td>
-                                        <a href="edit_form.php?id=<?= $vaga['id']; ?>" class="btn btn-warning btn-sm">Editar</a>
-                                        <a href="delete.php?id=<?= $vaga['id']; ?>" class="btn btn-danger btn-sm">Excluir</a>
-                                    </td>
-                                </tr>
-                                <?php endforeach; ?>
-                            </tbody>
-                        </table>
-                    </div>
+                        <?php foreach ($vagas as $vaga): ?>
+                            <details class="text-light">
+                                
+                                    <summary style="color: var(--rosa-vendex)">
+                                            <?= $vaga['titulo']; ?>
+                                    </summary>
+                                    <br>
+                                        <span>
+                                            <p style="font-size: 1rem;">Responsabilidades:</p>
+                                            <br>
+                                            <p style="font-size: 0.9rem;"><?= $vaga['descricao']; ?></p>
+                                        </span>    
+                                        <br>
+                                        <span>
+                                            <p style="font-size: 1rem;">Requisitos:</p>
+                                            <br>
+                                            <p style="font-size: 0.9rem;"><?= $vaga['requisitos']; ?></p>
+                                        </span>  
+                                        <br> 
+                                        <span>
+                                            <p style="font-size: 1rem;">Oferecemos:</p>
+                                            <br>
+                                            <p style="font-size: 0.9rem;"><?= $vaga['beneficios']; ?></p>
+                                        </span>   
+                                </details>
+                                <br>
+                            
+                            <?php endforeach; ?>
+                        </div>
 
 
                     </article>
