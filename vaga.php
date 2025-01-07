@@ -2,6 +2,12 @@
     include './shared/shared.php';
     include './shared/head.php';
     include './shared/Lps.php';
+
+    include './sql/db.php';
+
+    $sql = "SELECT * FROM vagas ORDER BY id DESC";
+    $stmt = $conn->query($sql);
+    $vagas = $stmt->fetchAll(PDO::FETCH_ASSOC);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -125,6 +131,34 @@
                                 </ul>    
                             </details>
                         </div>
+
+                        <div class="container mt-5">
+                        <h1>Lista de Vagas</h1>
+                        <a href="./sql/vagasbd.php" class="btn btn-success mb-3">Adicionar Vaga</a>
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Título</th>
+                                    <th>Ações</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <?php foreach ($vagas as $vaga): ?>
+                                <tr>
+                                    <td><?= $vaga['descricao']; ?></td>
+                                    <td><?= $vaga['titulo']; ?></td>
+                                    <td>
+                                        <a href="edit_form.php?id=<?= $vaga['id']; ?>" class="btn btn-warning btn-sm">Editar</a>
+                                        <a href="delete.php?id=<?= $vaga['id']; ?>" class="btn btn-danger btn-sm">Excluir</a>
+                                    </td>
+                                </tr>
+                                <?php endforeach; ?>
+                            </tbody>
+                        </table>
+                    </div>
+
+
                     </article>
                 </section>
                 <br><br>
