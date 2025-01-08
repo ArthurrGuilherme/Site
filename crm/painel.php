@@ -42,7 +42,7 @@
                                 <span class="ms-1 d-none d-sm-inline">Cases</span></a>
                         </li>
                         <li>
-                            <a href="#submenu2" class="nav-link px-0 align-middle ">
+                            <a href="../sql/vagasbd.php" class="nav-link px-0 align-middle ">
                                 <span class="ms-1 d-none d-sm-inline">Vagas</span>
                             </a>
                         </li>
