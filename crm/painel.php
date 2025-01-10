@@ -21,9 +21,9 @@
 <body>
     <?php echo $headpainel ?>
             <!--Main-->
-                <main class="col py-3">
-                    <div class="container mt-5">
-                        <h1>Adicionar Vaga</h1>
+                <main class="col">
+                    <div class="container">
+                        <h1 class="p-2">Vagas Vendex</h1>
                         <form method="POST" action="../sql/create.php">
                             <div class="mb-3">
                                 <label for="titulo" class="form-label">Título</label>
