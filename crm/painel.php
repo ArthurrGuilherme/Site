@@ -38,7 +38,7 @@
                                     <label for="requisitos" class="form-label"></label>
                                     <textarea placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisitos" name="requisitos" rows="4" required></textarea>
                                 </div>
-                                <div class="mb-1">
+                                <div class="mb-2">
                                     <label for="beneficios" class="form-label"></label>
                                     <textarea placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" rows="4" required></textarea>
                                 </div>
