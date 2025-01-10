@@ -61,7 +61,7 @@
                 <main class="col py-3">
                     <div class="container mt-5">
                         <h1>Adicionar Vaga</h1>
-                        <form method="POST" action="create.php">
+                        <form method="POST" action="../sql/create.php">
                             <div class="mb-3">
                                 <label for="titulo" class="form-label">Título</label>
                                 <input type="text" class="form-control" id="titulo" name="titulo" required>
