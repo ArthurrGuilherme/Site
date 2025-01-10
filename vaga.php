@@ -54,9 +54,9 @@
                     <article>
                         <!--Texto-->
                         <div>
-                            <span class="d-flex flex-column align-items-center text-center">
+                            <span class="d-flex flex-column align-items-center ">
                                 <!--Titulo-->
-                                    <h4 class="text-light">Junte-se à nossa equipe</h4>
+                                    <h4 class="text-light text-center">Junte-se à nossa equipe</h4>
                                 <!--Titulo-->
                                 <!--Texto-->
                                     <span class="text-light">
@@ -96,55 +96,20 @@
                         </div>
                         <br>
                         <!--texto-->
-                        <div class="d-flex align-items-center">
-                            <details>
-                                <summary class="d-flex align-items-center:" style="color: var(--rosa-vendex)">GESTOR DE MARKETPLACE</summary>
-                                <ul class="text-light">
-                                    <br>
-                                    <p style="font-size: 0.9rem;">Estamos buscando um Gestor de Marketplace dinâmico e orientado a resultados para se juntar à nossa equipe. O candidato ideal será responsável por gerenciar e otimizar a presença dos produtos dos nossos parceiros em diversos marketplaces, garantindo visibilidade máxima e vendas incrementadas.</p>
-                                    <br>
-                                    <p style="font-size: 0.9rem;">Responsabilidades:</p>
-                                    <br>
-                                        <li style="font-size: 0.8rem;">* Desenvolver e implementar estratégias de marketplace para maximizar a visibilidade e as vendas dos produtos.</li>
-                                        <li style="font-size: 0.8rem;">* Gerenciar relacionamentos com marketplaces e parceiros, negociando posições de destaque e condições comerciais favoráveis</li>
-                                        <li style="font-size: 0.8rem;">* Monitorar e analisar o desempenho dos produtos nos marketplaces, identificando oportunidades de otimização.</li>
-                                        <li style="font-size: 0.8rem;">* Trabalhar em estreita colaboração com as equipes de marketing, vendas e suporte ao cliente para garantir uma experiência de compra excepcional.</li>
-                                        <li style="font-size: 0.8rem;">* Ficar atualizado com as tendências do mercado e novas tecnologias para manter a competitividade da empresa.</li>
-                                    <br>
-                                    <br>
-                                    <p style="font-size: 0.9rem;">Requisitos:</p>
-                                    <br>
-                                        <li style="font-size: 0.8rem;">* Experiência comprovada em gestão de marketplace e e-commerce.</li>
-                                        <li style="font-size: 0.8rem;">* Excelentes habilidades de comunicação e negociação.</li>
-                                        <li style="font-size: 0.8rem;">* Forte capacidade analítica e experiência com ferramentas de análise de dados.</li>
-                                        <li style="font-size: 0.8rem;">* Conhecimento profundo das melhores práticas de SEO e marketing digital.</li>
-                                        <li style="font-size: 0.8rem;">* Habilidade para trabalhar em um ambiente de equipe rápido e mutável.</li>
-                                    <br>
-                                    <br>
-                                    <p style="font-size: 0.9rem;">Oferecemos:</p>
-                                    <br>
-                                        <li style="font-size: 0.8rem;">* Oportunidade de trabalhar em uma empresa inovadora e em rápido crescimento.</li>
-                                        <li style="font-size: 0.8rem;">* Ambiente de trabalho flexível e inclusivo.</li>
-                                        <li style="font-size: 0.8rem;">* Pacote competitivo de remuneração</li>
-                                        <li style="font-size: 0.8rem;">* Oportunidades de desenvolvimento profissional e crescimento na carreira.</li>
-                                    <br>
-                                </ul>    
-                            </details>
-                        </div>
-
-                        <div class="container mt-5">
-                        <a href="./sql/vagasbd.php" class="btn btn-success mb-3">Adicionar Vaga</a>
                         <?php foreach ($vagas as $vaga): ?>
                             <details class="text-light">
-                                
-                                    <summary style="color: var(--rosa-vendex)">
+                                    <summary style="color: var(--rosa-vendex)"> <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" style="fill: #fc6aed;transform: ;msFilter:;"><path d="M11.178 19.569a.998.998 0 0 0 1.644 0l9-13A.999.999 0 0 0 21 5H3a1.002 1.002 0 0 0-.822 1.569l9 13z"></path></svg>
                                             <?= $vaga['titulo']; ?>
                                     </summary>
                                     <br>
                                         <span>
                                             <p style="font-size: 1rem;">Responsabilidades:</p>
                                             <br>
-                                            <p style="font-size: 0.9rem;"><?= $vaga['descricao']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
                                         </span>    
                                         <br>
                                         <span>
@@ -160,11 +125,8 @@
                                         </span>   
                                 </details>
                                 <br>
-                            
                             <?php endforeach; ?>
                         </div>
-
-
                     </article>
                 </section>
                 <br><br>
@@ -176,13 +138,4 @@
     <!--Footer-->
 </body>
     <?php echo $headjs ?>
-    <script>
-    document.querySelector("#Btnconato03").addEventListener("click", function (event) {
-    event.preventDefault();
-
-    scrollto("#formulario")
-
-    console.log("go to up")
-    })                 
-    </script>
 </html>

@@ -32,7 +32,23 @@
                                 </div>
                                 <div class="mb-1">
                                     <label for="descricao" class="form-label"></label>
-                                    <textarea placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" rows="4" required></textarea>
+                                    <ul>
+                                        <li>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                        </li>
+                                    </ul>
                                 </div>
                                 <div class="mb-1">
                                     <label for="requisitos" class="form-label"></label>
