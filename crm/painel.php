@@ -31,7 +31,7 @@
                             </div>
                             <div class="mb-1">
                                 <label for="descricao" class="form-label"></label>
-                                <textarea placeholder="Adicione as descrições da vaga:" class="form-control" id="descricao" name="descricao" rows="4" required></textarea>
+                                <textarea placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" rows="4" required></textarea>
                             </div>
                             <div class="mb-1">
                                 <label for="requisitos" class="form-label"></label>
@@ -39,7 +39,7 @@
                             </div>
                             <div class="mb-1">
                                 <label for="beneficios" class="form-label"></label>
-                                <textarea placeholder="Adicione os Benefícios da vaga:" class="form-control" id="beneficios" name="beneficios" rows="4" required></textarea>
+                                <textarea placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" rows="4" required></textarea>
                             </div>
                             <button type="submit" class="btn btn-primary">Salvar</button>
                         </form>
