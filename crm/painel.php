@@ -23,23 +23,23 @@
             <!--Main-->
                 <main class="col">
                     <div class="container">
-                        <h1 class="p-2">Vagas Vendex</h1>
+                        <h3 class="p-2">Vagas Vendex</h3>
                         <form method="POST" action="../sql/create.php">
-                            <div class="mb-3">
-                                <label for="titulo" class="form-label">Título</label>
-                                <input type="text" class="form-control" id="titulo" name="titulo" required>
+                            <div class="">
+                                <label for="titulo" class="form-label"></label>
+                                <input placeholder="Vaga disponivel" type="text" class="form-control" id="titulo" name="titulo" required>
                             </div>
-                            <div class="mb-3">
-                                <label for="descricao" class="form-label">Descrição</label>
-                                <textarea class="form-control" id="descricao" name="descricao" rows="5" required></textarea>
+                            <div class="mb-1">
+                                <label for="descricao" class="form-label"></label>
+                                <textarea placeholder="Adicione as descrições da vaga:" class="form-control" id="descricao" name="descricao" rows="4" required></textarea>
                             </div>
-                            <div class="mb-3">
-                                <label for="requisitos" class="form-label">Requisitos</label>
-                                <textarea class="form-control" id="requisitos" name="requisitos" rows="5" required></textarea>
+                            <div class="mb-1">
+                                <label for="requisitos" class="form-label"></label>
+                                <textarea placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisitos" name="requisitos" rows="4" required></textarea>
                             </div>
-                            <div class="mb-3">
-                                <label for="beneficios" class="form-label">Benefícios</label>
-                                <textarea class="form-control" id="beneficios" name="beneficios" rows="5" required></textarea>
+                            <div class="mb-1">
+                                <label for="beneficios" class="form-label"></label>
+                                <textarea placeholder="Adicione os Benefícios da vaga:" class="form-control" id="beneficios" name="beneficios" rows="4" required></textarea>
                             </div>
                             <button type="submit" class="btn btn-primary">Salvar</button>
                         </form>
