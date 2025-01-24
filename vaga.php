@@ -115,7 +115,11 @@
                                         <span>
                                             <p style="font-size: 1rem;">Requisitos:</p>
                                             <br>
-                                            <p style="font-size: 0.9rem;"><?= $vaga['requisitos']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['requisitos']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['requisitos01']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['requisitos02']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['requisitos03']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['requisitos04']; ?></p>
                                         </span>  
                                         <br> 
                                         <span>

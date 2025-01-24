@@ -31,7 +31,7 @@
                                     <input placeholder="Vaga disponivel" type="text" class="form-control" id="titulo" name="titulo" required>
                                 </div>
                                 <div class="mb-1">
-                                    <label for="descricao01" class="form-label"></label>
+                                    <label for="descricao" class="form-label"></label>
                                     <ul>
                                         <li>
                                             <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
@@ -52,7 +52,23 @@
                                 </div>
                                 <div class="mb-1">
                                     <label for="requisitos" class="form-label"></label>
-                                    <textarea placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisitos" name="requisitos" rows="4" required></textarea>
+                                    <ul>
+                                        <li>
+                                            <input placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisitos" name="requisitos" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisito01" name="requisitos01" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisitos02" name="requisitos02" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisitos03" name="requisitos03" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os Requisitos da vaga:" class="form-control" id="requisitos04" name="requisitos04" required></input>
+                                        </li>
+                                    </ul>
                                 </div>
                                 <div class="mb-2">
                                     <label for="beneficios" class="form-label"></label>
