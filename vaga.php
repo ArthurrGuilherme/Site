@@ -106,10 +106,10 @@
                                             <p style="font-size: 1rem;">Responsabilidades:</p>
                                             <br>
                                             <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
-                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
-                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
-                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
-                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao01']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao02']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao03']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['descricao04']; ?></p>
                                         </span>    
                                         <br>
                                         <span>
