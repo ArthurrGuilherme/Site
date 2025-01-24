@@ -72,7 +72,23 @@
                                 </div>
                                 <div class="mb-2">
                                     <label for="beneficios" class="form-label"></label>
-                                    <textarea placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" rows="4" required></textarea>
+                                    <ul>
+                                        <li>
+                                            <input placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" required></input>
+                                        </li>
+                                        <li>
+                                            <input placeholder="Adicione os oferecemos da vaga:" class="form-control" id="beneficios" name="beneficios" required></input>
+                                        </li>
+                                    </ul>
                                 </div>
                                 <button type="submit" class="btn btn-primary">Salvar</button>
                             </form>

@@ -125,7 +125,11 @@
                                         <span>
                                             <p style="font-size: 1rem;">Oferecemos:</p>
                                             <br>
-                                            <p style="font-size: 0.9rem;"><?= $vaga['beneficios']; ?></p>
+                                            <p style="font-size: 0.9rem;">•<?= $vaga['beneficios']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['beneficios01']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['beneficios02']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['beneficios03']; ?></p>
+                                            <p style="font-size: 0.9rem;">• <?= $vaga['beneficios04']; ?></p>
                                         </span>   
                                 </details>
                                 <br>
