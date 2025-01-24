@@ -31,22 +31,22 @@
                                     <input placeholder="Vaga disponivel" type="text" class="form-control" id="titulo" name="titulo" required>
                                 </div>
                                 <div class="mb-1">
-                                    <label for="descricao" class="form-label"></label>
+                                    <label for="descricao01" class="form-label"></label>
                                     <ul>
                                         <li>
                                             <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
                                         </li>
                                         <li>
-                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao01" name="descricao01" required></input>
                                         </li>
                                         <li>
-                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao02" name="descricao02" required></input>
                                         </li>
                                         <li>
-                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao03" name="descricao03" required></input>
                                         </li>
                                         <li>
-                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao" name="descricao" required></input>
+                                            <input placeholder="Adicione as responsabilidades da vaga:" class="form-control" id="descricao04" name="descricao04" required></input>
                                         </li>
                                     </ul>
                                 </div>
